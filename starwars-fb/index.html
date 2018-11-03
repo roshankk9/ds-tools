@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+
+<head>
+<title> Firebase practice </title>
+<script src="https://code.jquery.com/jquery-1.12.3.min.js"></script>
+<script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+
+</head>
+<body>
+<select>
+<option> 1000000 </option>
+<option> 50000000 </option>
+<option> 10000000</option>
+<option> 20000000 </option>
+</select>
+<table>
+	<tr>
+		<th>
+		Team
+		</th>
+		<th>
+		Player
+		</th>
+		<th>
+		Salary
+		</th>
+	</tr>
+</table>
+<script>
+$(document).ready(function(){
+
+
+	var ref=new Firebase("https://credmond-roster.firebaseio.com/")
+
+	var select=$("select")
+	select.change(function(){
+
+	ref.on("child_added",function(data){
+		var teamname=data.key()
+		var ref2= new Firebase("https://credmond-roster.firebaseio.com/"+teamname)
+			ref2.orderByChild("salary").startAt(Number(select.val())).on("child_added",function(data2){
+				$("table").append("<tr> <td>"+teamname+"</td><td>"+data2.key()+"</td><td>"++ "</td>  <tr>")
+			})
+	})
+})
+})
+
+</script>
+</body>
+</html>

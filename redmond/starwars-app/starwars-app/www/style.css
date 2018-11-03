@@ -1,0 +1,13 @@
+.movie{
+	height: 200px;
+	border: 1px black solid;
+	position: relative;
+}
+.caption{
+	text-align: center;
+}
+img{
+	width: 100%;
+	bottom: 50px;
+	position: absolute;
+}

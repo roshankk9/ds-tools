@@ -1,0 +1,13 @@
+shinyServer(function(input,output){
+	output$plot<-renderPlot({		
+		df<-yardage%>%filter(team==input$team)
+		df$yardage_type<-factor(df$yardage_type,levels=c('rushing','passing'))
+		ggplot()+ 
+  			geom_area(data=df,aes(x=week,y=yards,fill=yardage_type),alpha=.5)+
+  			scale_x_continuous(breaks=seq(1:16))+
+  			geom_text(data=df,aes(x=week,y=yards+offset+10*offset2,label=yards,color=outcome))+
+  			scale_color_manual(values=c('red','green4'))+
+  			scale_fill_manual(values=c('wheat4','skyblue'))+
+  			geom_line(data=df,aes(x=week,y=yards+offset,group=week,color=outcome))
+	})
+})

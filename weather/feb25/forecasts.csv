@@ -1,0 +1,3901 @@
+"city","time","temp"
+"New York",0,32.99
+"New York",3,35.13
+"New York",6,37.02
+"New York",9,34.56
+"New York",12,32.04
+"New York",15,28.63
+"New York",18,25.63
+"New York",21,24.55
+"New York",24,34.05
+"New York",27,36.68
+"New York",30,36.23
+"New York",33,32.72
+"New York",36,32.16
+"New York",39,31.44
+"New York",42,29.66
+"New York",45,29.61
+"New York",48,34.86
+"New York",51,37.15
+"New York",54,39.25
+"New York",57,33.18
+"New York",60,29.89
+"New York",63,29.51
+"New York",66,29.48
+"New York",69,31.26
+"New York",72,39.68
+"New York",75,46.12
+"New York",78,49.87
+"New York",81,45.97
+"New York",84,43.14
+"New York",87,40.71
+"New York",90,38.24
+"New York",93,38.93
+"New York",96,50.5
+"New York",99,56.22
+"New York",102,57.93
+"New York",105,53.58
+"New York",108,50.02
+"New York",111,47.73
+"New York",114,45.62
+"New York",117,46.38
+"Los Angeles",0,38.73
+"Los Angeles",3,60.8
+"Los Angeles",6,65.8
+"Los Angeles",9,64
+"Los Angeles",12,55.49
+"Los Angeles",15,47.61
+"Los Angeles",18,44.31
+"Los Angeles",21,43.25
+"Los Angeles",24,44.73
+"Los Angeles",27,59.32
+"Los Angeles",30,61.38
+"Los Angeles",33,60.62
+"Los Angeles",36,55.96
+"Los Angeles",39,53.78
+"Los Angeles",42,52.79
+"Los Angeles",45,51.33
+"Los Angeles",48,51.53
+"Los Angeles",51,53.62
+"Los Angeles",54,50.65
+"Los Angeles",57,48.75
+"Los Angeles",60,48.07
+"Los Angeles",63,43.78
+"Los Angeles",66,45.86
+"Los Angeles",69,45.93
+"Los Angeles",72,45.35
+"Los Angeles",75,50.26
+"Los Angeles",78,52.39
+"Los Angeles",81,47.63
+"Los Angeles",84,43.37
+"Los Angeles",87,42.06
+"Los Angeles",90,42.47
+"Los Angeles",93,41.99
+"Los Angeles",96,40.42
+"Los Angeles",99,54.01
+"Los Angeles",102,61.26
+"Los Angeles",105,61.32
+"Los Angeles",108,48.67
+"Los Angeles",111,42.29
+"Los Angeles",114,39.23
+"Los Angeles",117,36.93
+"Chicago",0,27.93
+"Chicago",3,32.4
+"Chicago",6,33.93
+"Chicago",9,28.65
+"Chicago",12,28.56
+"Chicago",15,30.22
+"Chicago",18,33.64
+"Chicago",21,35.82
+"Chicago",24,35.44
+"Chicago",27,36.97
+"Chicago",30,37.74
+"Chicago",33,34.77
+"Chicago",36,26.4
+"Chicago",39,16.65
+"Chicago",42,13.62
+"Chicago",45,14.34
+"Chicago",48,32.63
+"Chicago",51,40.19
+"Chicago",54,43.86
+"Chicago",57,42.45
+"Chicago",60,41.68
+"Chicago",63,41.21
+"Chicago",66,41.81
+"Chicago",69,42.19
+"Chicago",72,47.46
+"Chicago",75,55.75
+"Chicago",78,55.45
+"Chicago",81,52.45
+"Chicago",84,51.33
+"Chicago",87,52.86
+"Chicago",90,54.35
+"Chicago",93,55.71
+"Chicago",96,58.06
+"Chicago",99,60.27
+"Chicago",102,62.3
+"Chicago",105,61.09
+"Chicago",108,60.46
+"Chicago",111,55.38
+"Chicago",114,53.05
+"Chicago",117,51.6
+"Houston",0,69.71
+"Houston",3,77.92
+"Houston",6,79.79
+"Houston",9,75.61
+"Houston",12,64.17
+"Houston",15,59.09
+"Houston",18,54
+"Houston",21,50.79
+"Houston",24,68.49
+"Houston",27,78.04
+"Houston",30,78.53
+"Houston",33,72.57
+"Houston",36,62.02
+"Houston",39,57.42
+"Houston",42,54.5
+"Houston",45,55.47
+"Houston",48,67.39
+"Houston",51,74.84
+"Houston",54,74.95
+"Houston",57,69.85
+"Houston",60,64.81
+"Houston",63,63.04
+"Houston",66,62.69
+"Houston",69,65.01
+"Houston",72,69.33
+"Houston",75,72.58
+"Houston",78,74.89
+"Houston",81,71.35
+"Houston",84,69.15
+"Houston",87,69.28
+"Houston",90,69.65
+"Houston",93,69.53
+"Houston",96,71.38
+"Houston",99,69.45
+"Houston",102,68.42
+"Houston",105,69.6
+"Houston",108,67.66
+"Houston",111,67.89
+"Houston",114,64.93
+"Houston",117,63.39
+"Philadelphia",0,35.65
+"Philadelphia",3,43.3
+"Philadelphia",6,44.26
+"Philadelphia",9,37.17
+"Philadelphia",12,33.85
+"Philadelphia",15,29.3
+"Philadelphia",18,24.17
+"Philadelphia",21,21.58
+"Philadelphia",24,38.55
+"Philadelphia",27,41.97
+"Philadelphia",30,41.31
+"Philadelphia",33,35.28
+"Philadelphia",36,32.85
+"Philadelphia",39,32.09
+"Philadelphia",42,31.71
+"Philadelphia",45,31.19
+"Philadelphia",48,36.77
+"Philadelphia",51,43.47
+"Philadelphia",54,44.55
+"Philadelphia",57,36.01
+"Philadelphia",60,27.37
+"Philadelphia",63,23.35
+"Philadelphia",66,22.14
+"Philadelphia",69,25.23
+"Philadelphia",72,44.09
+"Philadelphia",75,53.68
+"Philadelphia",78,55.45
+"Philadelphia",81,49.03
+"Philadelphia",84,45.89
+"Philadelphia",87,42.42
+"Philadelphia",90,36.26
+"Philadelphia",93,32.99
+"Philadelphia",96,55.9
+"Philadelphia",99,65.26
+"Philadelphia",102,65.58
+"Philadelphia",105,55.74
+"Philadelphia",108,51.37
+"Philadelphia",111,49.94
+"Philadelphia",114,50.62
+"Philadelphia",117,51.6
+"Phoenix",0,56.43
+"Phoenix",3,75.79
+"Phoenix",6,82.56
+"Phoenix",9,82.65
+"Phoenix",12,67.55
+"Phoenix",15,61.63
+"Phoenix",18,56.37
+"Phoenix",21,55.87
+"Phoenix",24,57.43
+"Phoenix",27,71.67
+"Phoenix",30,75.97
+"Phoenix",33,74.79
+"Phoenix",36,64.99
+"Phoenix",39,57.36
+"Phoenix",42,56.79
+"Phoenix",45,57.34
+"Phoenix",48,57.78
+"Phoenix",51,69.4
+"Phoenix",54,69.94
+"Phoenix",57,67.15
+"Phoenix",60,57.52
+"Phoenix",63,54.26
+"Phoenix",66,49.14
+"Phoenix",69,46.02
+"Phoenix",72,47.73
+"Phoenix",75,56.42
+"Phoenix",78,54.77
+"Phoenix",81,51.1
+"Phoenix",84,47.82
+"Phoenix",87,46.47
+"Phoenix",90,45.35
+"Phoenix",93,43.25
+"Phoenix",96,45.19
+"Phoenix",99,51.18
+"Phoenix",102,54.02
+"Phoenix",105,55.06
+"Phoenix",108,47.5
+"Phoenix",111,41.97
+"Phoenix",114,39.23
+"Phoenix",117,37.74
+"San Antonio",0,67.24
+"San Antonio",3,77.5
+"San Antonio",6,82.56
+"San Antonio",9,80.69
+"San Antonio",12,65.86
+"San Antonio",15,63.73
+"San Antonio",18,58.42
+"San Antonio",21,54.75
+"San Antonio",24,64.18
+"San Antonio",27,78.62
+"San Antonio",30,85.33
+"San Antonio",33,83.41
+"San Antonio",36,73.92
+"San Antonio",39,65.28
+"San Antonio",42,63.43
+"San Antonio",45,64.65
+"San Antonio",48,66.87
+"San Antonio",51,70.74
+"San Antonio",54,74.46
+"San Antonio",57,73.81
+"San Antonio",60,69.31
+"San Antonio",63,66.32
+"San Antonio",66,65.66
+"San Antonio",69,65.41
+"San Antonio",72,66.68
+"San Antonio",75,70.96
+"San Antonio",78,74.21
+"San Antonio",81,75.8
+"San Antonio",84,69.33
+"San Antonio",87,67.84
+"San Antonio",90,68.75
+"San Antonio",93,63.27
+"San Antonio",96,65.98
+"San Antonio",99,76.11
+"San Antonio",102,78.18
+"San Antonio",105,76.39
+"San Antonio",108,62.8
+"San Antonio",111,59.39
+"San Antonio",114,58.27
+"San Antonio",117,57.99
+"San Diego",0,51.31
+"San Diego",3,67.96
+"San Diego",6,70.99
+"San Diego",9,65.66
+"San Diego",12,51.52
+"San Diego",15,45.91
+"San Diego",18,43.29
+"San Diego",21,42.37
+"San Diego",24,43.39
+"San Diego",27,58.9
+"San Diego",30,68.02
+"San Diego",33,66.52
+"San Diego",36,57.29
+"San Diego",39,50.73
+"San Diego",42,47.87
+"San Diego",45,48.28
+"San Diego",48,51.31
+"San Diego",51,54.35
+"San Diego",54,57.7
+"San Diego",57,52.99
+"San Diego",60,51.74
+"San Diego",63,51.25
+"San Diego",66,51.32
+"San Diego",69,49.8
+"San Diego",72,49.02
+"San Diego",75,49.01
+"San Diego",78,49.29
+"San Diego",81,48.65
+"San Diego",84,47.12
+"San Diego",87,44.97
+"San Diego",90,42.27
+"San Diego",93,40.16
+"San Diego",96,38.7
+"San Diego",99,55.16
+"San Diego",102,59.94
+"Dallas",0,56.82
+"Dallas",3,67.17
+"Dallas",6,70.43
+"Dallas",9,67.35
+"Dallas",12,56.34
+"Dallas",15,49.53
+"Dallas",18,49.71
+"Dallas",21,47.34
+"Dallas",24,57.43
+"Dallas",27,72.07
+"Dallas",30,76.71
+"Dallas",33,71.73
+"Dallas",36,60.96
+"Dallas",39,57.87
+"Dallas",42,57.54
+"Dallas",45,55.83
+"Dallas",48,59.81
+"Dallas",51,68.58
+"Dallas",54,74.73
+"Dallas",57,73.95
+"Dallas",60,70.75
+"Dallas",63,68.12
+"Dallas",66,64.94
+"Dallas",69,63.03
+"Dallas",72,64.7
+"Dallas",75,71.23
+"Dallas",78,72.19
+"Dallas",81,72.56
+"Dallas",84,67.53
+"Dallas",87,62.94
+"Dallas",90,64.34
+"Dallas",93,61.74
+"Dallas",96,62.11
+"Dallas",99,63.69
+"Dallas",102,68.19
+"Dallas",105,65.82
+"Dallas",108,58.53
+"Dallas",111,53.49
+"Dallas",114,53.99
+"Dallas",117,55.47
+"San Jose",0,54.21
+"San Jose",3,58.05
+"San Jose",6,60.26
+"San Jose",9,58.66
+"San Jose",12,56.19
+"San Jose",15,55.87
+"San Jose",18,54.21
+"San Jose",21,52.7
+"San Jose",24,52.63
+"San Jose",27,55.24
+"San Jose",30,57
+"San Jose",33,56.1
+"San Jose",36,54.39
+"San Jose",39,53.01
+"San Jose",42,48.76
+"San Jose",45,47.97
+"San Jose",48,48.6
+"San Jose",51,52.38
+"San Jose",54,54.84
+"San Jose",57,53.25
+"San Jose",60,49.33
+"San Jose",63,46.93
+"San Jose",66,44.96
+"San Jose",69,43.18
+"San Jose",72,43.91
+"San Jose",75,44.27
+"San Jose",78,47.8
+"San Jose",81,50.15
+"San Jose",84,46.02
+"San Jose",87,43.99
+"San Jose",90,41.17
+"San Jose",93,38.7
+"San Jose",96,37.36
+"San Jose",99,51.18
+"San Jose",102,55.55
+"San Jose",105,53.85
+"San Jose",108,45.79
+"San Jose",111,44.54
+"San Jose",114,44.77
+"San Jose",117,45.03
+"Austin",0,59.52
+"Austin",3,70.18
+"Austin",6,74.16
+"Austin",9,71.06
+"Austin",12,57.64
+"Austin",15,53.38
+"Austin",18,51.93
+"Austin",21,49.21
+"Austin",24,55.95
+"Austin",27,70.06
+"Austin",30,79.72
+"Austin",33,78.67
+"Austin",36,68.99
+"Austin",39,64.5
+"Austin",42,58.49
+"Austin",45,56.43
+"Austin",48,61.17
+"Austin",51,69.43
+"Austin",54,75.03
+"Austin",57,74.55
+"Austin",60,68.97
+"Austin",63,65.61
+"Austin",66,64.14
+"Austin",69,64.2
+"Austin",72,65.44
+"Austin",75,70.66
+"Austin",78,72.78
+"Austin",81,74.3
+"Austin",84,69.26
+"Austin",87,67.2
+"Austin",90,67.69
+"Austin",93,66.84
+"Austin",96,66.87
+"Austin",99,69.02
+"Austin",102,75.24
+"Jacksonville",0,60.75
+"Jacksonville",3,64.04
+"Jacksonville",6,62.8
+"Jacksonville",9,59.77
+"Jacksonville",12,57.02
+"Jacksonville",15,53.28
+"Jacksonville",18,51.82
+"Jacksonville",21,51.4
+"Jacksonville",24,62.28
+"Jacksonville",27,64.99
+"Jacksonville",30,65.61
+"Jacksonville",33,59.14
+"Jacksonville",36,52.68
+"Jacksonville",39,49.41
+"Jacksonville",42,46.71
+"Jacksonville",45,48.22
+"Jacksonville",48,60.66
+"Jacksonville",51,64
+"Jacksonville",54,62.26
+"Jacksonville",57,55.41
+"Jacksonville",60,50.59
+"Jacksonville",63,49.31
+"Jacksonville",66,49.77
+"Jacksonville",69,52.54
+"Jacksonville",72,67.58
+"Jacksonville",75,70.33
+"Jacksonville",78,71.24
+"Jacksonville",81,65.59
+"Jacksonville",84,59.66
+"Jacksonville",87,58.8
+"Jacksonville",90,57.05
+"Jacksonville",93,54.45
+"Jacksonville",96,72.19
+"Jacksonville",99,75.16
+"Jacksonville",102,74.45
+"Jacksonville",105,69.15
+"Jacksonville",108,66.9
+"Jacksonville",111,65.64
+"Jacksonville",114,64.52
+"Jacksonville",117,63.57
+"San Francisco",0,56.57
+"San Francisco",3,58.08
+"San Francisco",6,59.86
+"San Francisco",9,58.21
+"San Francisco",12,57.36
+"San Francisco",15,57.33
+"San Francisco",18,57.4
+"San Francisco",21,56.91
+"San Francisco",24,57.58
+"San Francisco",27,58.1
+"San Francisco",30,58.59
+"San Francisco",33,58.26
+"San Francisco",36,57.61
+"San Francisco",39,54.55
+"San Francisco",42,54.25
+"San Francisco",45,53.89
+"San Francisco",48,53.6
+"San Francisco",51,53.67
+"San Francisco",54,55.45
+"San Francisco",57,55
+"San Francisco",60,51.31
+"San Francisco",63,50.57
+"San Francisco",66,47.66
+"San Francisco",69,47.37
+"San Francisco",72,47.64
+"San Francisco",75,49.18
+"San Francisco",78,53.42
+"San Francisco",81,54.34
+"San Francisco",84,51.47
+"San Francisco",87,49.53
+"San Francisco",90,48.14
+"San Francisco",93,47.16
+"San Francisco",96,46.18
+"San Francisco",99,51.81
+"San Francisco",102,55.86
+"San Francisco",105,55.24
+"San Francisco",108,52.72
+"San Francisco",111,50.75
+"San Francisco",114,49.85
+"San Francisco",117,49.35
+"Indianapolis",0,29.19
+"Indianapolis",3,36.72
+"Indianapolis",6,40.73
+"Indianapolis",9,34.72
+"Indianapolis",12,27.09
+"Indianapolis",15,30.09
+"Indianapolis",18,34.23
+"Indianapolis",21,36.81
+"Indianapolis",24,43
+"Indianapolis",27,47.62
+"Indianapolis",30,42.91
+"Indianapolis",33,39.54
+"Indianapolis",36,36.09
+"Indianapolis",39,29.88
+"Indianapolis",42,23.79
+"Indianapolis",45,21.27
+"Indianapolis",48,37.31
+"Indianapolis",51,47.3
+"Indianapolis",54,52.32
+"Indianapolis",57,47.49
+"Indianapolis",60,44.65
+"Indianapolis",63,44.41
+"Indianapolis",66,45.27
+"Indianapolis",69,45.61
+"Indianapolis",72,53.9
+"Indianapolis",75,62.45
+"Indianapolis",78,61.39
+"Indianapolis",81,57.85
+"Indianapolis",84,53.94
+"Indianapolis",87,53.85
+"Indianapolis",90,55.97
+"Indianapolis",93,59
+"Indianapolis",96,62.92
+"Indianapolis",99,65.44
+"Indianapolis",102,65.45
+"Indianapolis",105,64.47
+"Indianapolis",108,61.81
+"Indianapolis",111,62.27
+"Indianapolis",114,58.13
+"Indianapolis",117,59.52
+"Columbus",0,33.33
+"Columbus",3,36.84
+"Columbus",6,37.49
+"Columbus",9,28.69
+"Columbus",12,20.61
+"Columbus",15,16.05
+"Columbus",18,18.39
+"Columbus",21,24.93
+"Columbus",24,33.13
+"Columbus",27,37
+"Columbus",30,38.77
+"Columbus",33,36.72
+"Columbus",36,34.14
+"Columbus",39,32.22
+"Columbus",42,29.86
+"Columbus",45,27.57
+"Columbus",48,31.14
+"Columbus",51,38.79
+"Columbus",54,42.66
+"Columbus",57,35.43
+"Columbus",60,32.41
+"Columbus",63,32.84
+"Columbus",66,35.74
+"Columbus",69,36.12
+"Columbus",72,43.46
+"Columbus",75,50.26
+"Columbus",78,55.99
+"Columbus",81,50.6
+"Columbus",84,46.02
+"Columbus",87,43.99
+"Columbus",90,42.65
+"Columbus",93,42.35
+"Columbus",96,52.84
+"Columbus",99,62.11
+"Columbus",102,64.14
+"Columbus",105,60.01
+"Columbus",108,56.77
+"Columbus",111,53.85
+"Columbus",114,54.67
+"Columbus",117,54.57
+"Fort Worth",0,56.25
+"Fort Worth",3,67.17
+"Fort Worth",6,70.61
+"Fort Worth",9,67.17
+"Fort Worth",12,57
+"Fort Worth",15,51.51
+"Fort Worth",18,49.53
+"Fort Worth",21,46.49
+"Fort Worth",24,57.07
+"Fort Worth",27,72.25
+"Fort Worth",30,77.25
+"Fort Worth",33,72.48
+"Fort Worth",36,61.77
+"Fort Worth",39,58.86
+"Fort Worth",42,58.93
+"Fort Worth",45,54.81
+"Fort Worth",48,58.82
+"Fort Worth",51,68.18
+"Fort Worth",54,75.51
+"Fort Worth",57,74.85
+"Fort Worth",60,71.83
+"Fort Worth",63,68.89
+"Fort Worth",66,65.25
+"Fort Worth",69,63.12
+"Fort Worth",72,63.93
+"Fort Worth",75,65.47
+"Fort Worth",78,74.57
+"Fort Worth",81,72.16
+"Fort Worth",84,67.31
+"Fort Worth",87,65.91
+"Fort Worth",90,67.18
+"Fort Worth",93,61.56
+"Fort Worth",96,60.4
+"Fort Worth",99,65.44
+"Fort Worth",102,67.7
+"Fort Worth",105,66.63
+"Fort Worth",108,59.43
+"Fort Worth",111,54.21
+"Fort Worth",114,53.27
+"Fort Worth",117,56.28
+"Charlotte",0,54.07
+"Charlotte",3,62.15
+"Charlotte",6,64.49
+"Charlotte",9,56.59
+"Charlotte",12,49.44
+"Charlotte",15,42.94
+"Charlotte",18,39.67
+"Charlotte",21,38.59
+"Charlotte",24,51.35
+"Charlotte",27,59.11
+"Charlotte",30,62.76
+"Charlotte",33,57.09
+"Charlotte",36,48.72
+"Charlotte",39,46.51
+"Charlotte",42,42.67
+"Charlotte",45,37.18
+"Charlotte",48,50.29
+"Charlotte",51,56.57
+"Charlotte",54,58.82
+"Charlotte",57,48.39
+"Charlotte",60,40.15
+"Charlotte",63,35.99
+"Charlotte",66,34.74
+"Charlotte",69,33.24
+"Charlotte",72,52.23
+"Charlotte",75,59.93
+"Charlotte",78,63.19
+"Charlotte",81,53.75
+"Charlotte",84,47.1
+"Charlotte",87,44.26
+"Charlotte",90,47.47
+"Charlotte",93,43.56
+"Charlotte",96,59.95
+"Charlotte",99,69.63
+"Charlotte",102,72.74
+"Charlotte",105,64.92
+"Charlotte",108,58.84
+"Charlotte",111,59.25
+"Charlotte",114,57.82
+"Charlotte",117,57.36
+"Detroit",0,29.39
+"Detroit",3,34.54
+"Detroit",6,35.24
+"Detroit",9,21.58
+"Detroit",12,13.91
+"Detroit",15,14.29
+"Detroit",18,21.07
+"Detroit",21,24.08
+"Detroit",24,31.73
+"Detroit",27,34.32
+"Detroit",30,35.49
+"Detroit",33,33.17
+"Detroit",36,28.11
+"Detroit",39,25.36
+"Detroit",42,15.48
+"Detroit",45,10.33
+"Detroit",48,28.67
+"Detroit",51,33.24
+"Detroit",54,33.8
+"Detroit",57,29.31
+"Detroit",60,32.23
+"Detroit",63,35.99
+"Detroit",66,36.54
+"Detroit",69,36.79
+"Detroit",72,39.09
+"Detroit",75,41.44
+"Detroit",78,42.62
+"Detroit",81,38.23
+"Detroit",84,38.73
+"Detroit",87,40.62
+"Detroit",90,39.05
+"Detroit",93,40.14
+"Detroit",96,44.38
+"Detroit",99,50.1
+"Detroit",102,53.03
+"Detroit",105,52.54
+"Detroit",108,52.45
+"Detroit",111,51.87
+"Detroit",114,50.62
+"Detroit",117,48.9
+"El Paso",0,55.33
+"El Paso",3,77.54
+"El Paso",6,83.26
+"El Paso",9,81.52
+"El Paso",12,62.37
+"El Paso",15,54.07
+"El Paso",18,51.19
+"El Paso",21,50.7
+"El Paso",24,55.8
+"El Paso",27,75.18
+"El Paso",30,79.05
+"El Paso",33,76.41
+"El Paso",36,65.34
+"El Paso",39,58.3
+"El Paso",42,52.21
+"El Paso",45,47.14
+"El Paso",48,53.71
+"El Paso",51,68.59
+"El Paso",54,72.81
+"El Paso",57,72.46
+"El Paso",60,64.99
+"El Paso",63,58.67
+"El Paso",66,52.43
+"El Paso",69,47.14
+"El Paso",72,48.86
+"El Paso",75,59.3
+"El Paso",78,64.81
+"El Paso",81,63.56
+"El Paso",84,57.59
+"El Paso",87,48.94
+"El Paso",90,44.14
+"El Paso",93,39.96
+"El Paso",96,42.58
+"El Paso",99,53.07
+"El Paso",102,57.48
+"El Paso",105,56.55
+"El Paso",108,49.08
+"El Paso",111,47.46
+"El Paso",114,43.1
+"El Paso",117,41.07
+"Seattle",0,42.75
+"Seattle",3,51.12
+"Seattle",6,49.91
+"Seattle",9,51.33
+"Seattle",12,49.71
+"Seattle",15,47.37
+"Seattle",18,45.84
+"Seattle",21,47.52
+"Seattle",24,46.6
+"Seattle",27,50.56
+"Seattle",30,55.83
+"Seattle",33,54.81
+"Seattle",36,49.26
+"Seattle",39,51.35
+"Seattle",42,50.97
+"Seattle",45,48.54
+"Seattle",48,46.85
+"Seattle",51,46.98
+"Seattle",54,47.37
+"Seattle",57,48.25
+"Seattle",60,46.81
+"Seattle",63,42.47
+"Seattle",66,41.18
+"Seattle",69,41.79
+"Seattle",72,42.02
+"Seattle",75,46.39
+"Seattle",78,50.27
+"Seattle",81,49.66
+"Seattle",84,45.71
+"Seattle",87,45.03
+"Seattle",90,42.97
+"Seattle",93,42.53
+"Seattle",96,40.96
+"Seattle",99,46.18
+"Seattle",102,48.71
+"Seattle",105,44.67
+"Seattle",108,41.97
+"Seattle",111,41.43
+"Seattle",114,43.42
+"Seattle",117,43.32
+"Denver",0,33.96
+"Denver",3,51.96
+"Denver",6,52.52
+"Denver",9,49.75
+"Denver",12,37.11
+"Denver",15,30.72
+"Denver",18,31.26
+"Denver",21,30.69
+"Denver",24,35.98
+"Denver",27,55.78
+"Denver",30,58.93
+"Denver",33,55.2
+"Denver",36,46.56
+"Denver",39,40.05
+"Denver",42,32.74
+"Denver",45,29.52
+"Denver",48,37.89
+"Denver",51,56.75
+"Denver",54,59.25
+"Denver",57,54.15
+"Denver",60,43.39
+"Denver",63,33.92
+"Denver",66,31.19
+"Denver",69,34.41
+"Denver",72,39.14
+"Denver",75,45.8
+"Denver",78,37.99
+"Denver",81,36.52
+"Denver",84,32.07
+"Denver",87,30.81
+"Denver",90,30.64
+"Denver",93,28.22
+"Denver",96,30.7
+"Denver",99,35.52
+"Denver",102,37.68
+"Denver",105,35.94
+"Denver",108,26.71
+"Denver",111,20.46
+"Denver",114,19.79
+"Denver",117,17.4
+"Washington",0,23.92
+"Washington",3,38.88
+"Washington",6,46.36
+"Washington",9,47.66
+"Washington",12,39.94
+"Washington",15,34
+"Washington",18,28.8
+"Washington",21,31.84
+"Washington",24,34.07
+"Washington",27,42.58
+"Washington",30,48.76
+"Washington",33,45.86
+"Washington",36,39.16
+"Washington",39,37.74
+"Washington",42,39.45
+"Washington",45,40.82
+"Washington",48,37.15
+"Washington",51,43.68
+"Washington",54,44.85
+"Washington",57,42
+"Washington",60,33.94
+"Washington",63,26.77
+"Washington",66,23.09
+"Washington",69,22.89
+"Washington",72,27.03
+"Washington",75,33.83
+"Washington",78,37.18
+"Washington",81,35.71
+"Washington",84,34.19
+"Washington",87,33.46
+"Washington",90,32.3
+"Washington",93,29.84
+"Washington",96,26.38
+"Washington",99,36.64
+"Washington",102,39.53
+"Washington",105,37.92
+"Washington",108,32.74
+"Washington",111,30.59
+"Washington",114,29.65
+"Washington",117,27.03
+"Memphis",0,54.93
+"Memphis",3,63.09
+"Memphis",6,66.11
+"Memphis",9,59.9
+"Memphis",12,48.13
+"Memphis",15,43.39
+"Memphis",18,41.31
+"Memphis",21,43.63
+"Memphis",24,58.68
+"Memphis",27,68.99
+"Memphis",30,71.22
+"Memphis",33,60.93
+"Memphis",36,46.04
+"Memphis",39,40.53
+"Memphis",42,38.28
+"Memphis",45,37.17
+"Memphis",48,52.72
+"Memphis",51,64.74
+"Memphis",54,66.18
+"Memphis",57,60.09
+"Memphis",60,56.26
+"Memphis",63,55.3
+"Memphis",66,54.19
+"Memphis",69,52.05
+"Memphis",72,55.74
+"Memphis",75,66.19
+"Memphis",78,67.19
+"Memphis",81,66.71
+"Memphis",84,66.99
+"Memphis",87,66.63
+"Memphis",90,62.45
+"Memphis",93,62.15
+"Memphis",96,64.36
+"Memphis",99,69.58
+"Memphis",102,67.52
+"Memphis",105,68.2
+"Memphis",108,66.04
+"Memphis",111,63.84
+"Memphis",114,64.3
+"Memphis",117,64.38
+"Boston",0,30.52
+"Boston",3,33.04
+"Boston",6,33.67
+"Boston",9,32.38
+"Boston",12,32.8
+"Boston",15,32.46
+"Boston",18,30.51
+"Boston",21,29
+"Boston",24,32.82
+"Boston",27,34.78
+"Boston",30,35.71
+"Boston",33,33.45
+"Boston",36,32.9
+"Boston",39,32.59
+"Boston",42,32.07
+"Boston",45,32.98
+"Boston",48,36.42
+"Boston",51,36.31
+"Boston",54,35.61
+"Boston",57,34.27
+"Boston",60,31.58
+"Boston",63,29.11
+"Boston",66,27.56
+"Boston",69,28.56
+"Boston",72,36.19
+"Boston",75,40.42
+"Boston",78,42.85
+"Boston",81,39.29
+"Boston",84,35.96
+"Boston",87,34.75
+"Boston",90,34.71
+"Boston",93,35.25
+"Boston",96,46.62
+"Boston",99,52.37
+"Boston",102,53.64
+"Nashville",0,56.46
+"Nashville",3,62.22
+"Nashville",6,65.21
+"Nashville",9,57.06
+"Nashville",12,46.85
+"Nashville",15,42.22
+"Nashville",18,39.43
+"Nashville",21,43.38
+"Nashville",24,56.46
+"Nashville",27,67.08
+"Nashville",30,68.32
+"Nashville",33,59.68
+"Nashville",36,51.42
+"Nashville",39,43.38
+"Nashville",42,35.37
+"Nashville",45,31.24
+"Nashville",48,46.18
+"Nashville",51,56.91
+"Nashville",54,60.96
+"Nashville",57,52.44
+"Nashville",60,47.8
+"Nashville",63,48.91
+"Nashville",66,49.73
+"Nashville",69,48.9
+"Nashville",72,54.93
+"Nashville",75,60.2
+"Nashville",78,62.11
+"Nashville",81,60.37
+"Nashville",84,58.8
+"Nashville",87,58.48
+"Nashville",90,58.63
+"Nashville",93,57.74
+"Nashville",96,63.1
+"Nashville",99,68.1
+"Nashville",102,71.61
+"Nashville",105,68.52
+"Nashville",108,67.62
+"Nashville",111,67.8
+"Nashville",114,65.6
+"Nashville",117,58.8
+"Baltimore",0,36.63
+"Baltimore",3,41.79
+"Baltimore",6,43.12
+"Baltimore",9,34.59
+"Baltimore",12,26.28
+"Baltimore",15,23.37
+"Baltimore",18,20.52
+"Baltimore",21,19.33
+"Baltimore",24,40.15
+"Baltimore",27,44.82
+"Baltimore",30,44.76
+"Baltimore",33,38.89
+"Baltimore",36,37.17
+"Baltimore",39,37.86
+"Baltimore",42,38.28
+"Baltimore",45,36.81
+"Baltimore",48,41.14
+"Baltimore",51,44.54
+"Baltimore",54,44.38
+"Baltimore",57,36.79
+"Baltimore",60,27.39
+"Baltimore",63,22.59
+"Baltimore",66,20.09
+"Baltimore",69,20.78
+"Baltimore",72,42.58
+"Baltimore",75,51.85
+"Baltimore",78,55.36
+"Baltimore",81,46.04
+"Baltimore",84,41.9
+"Baltimore",87,40.65
+"Baltimore",90,38.76
+"Baltimore",93,33.99
+"Baltimore",96,54.99
+"Baltimore",99,65.6
+"Baltimore",102,66.24
+"Oklahoma City",0,64.83
+"Oklahoma City",3,79.81
+"Oklahoma City",6,83.55
+"Oklahoma City",9,79.93
+"Oklahoma City",12,67.77
+"Oklahoma City",15,61.72
+"Oklahoma City",18,55.47
+"Oklahoma City",21,49.19
+"Oklahoma City",24,58.86
+"Oklahoma City",27,73.24
+"Oklahoma City",30,79.61
+"Oklahoma City",33,77.54
+"Oklahoma City",36,69.01
+"Oklahoma City",39,66.7
+"Oklahoma City",42,64.67
+"Oklahoma City",45,62.94
+"Oklahoma City",48,65.25
+"Oklahoma City",51,71.58
+"Oklahoma City",54,77.13
+"Oklahoma City",57,72.6
+"Oklahoma City",60,69.94
+"Oklahoma City",63,70.64
+"Oklahoma City",66,69.12
+"Oklahoma City",69,66.99
+"Oklahoma City",72,68.93
+"Oklahoma City",75,69.16
+"Oklahoma City",78,62.92
+"Oklahoma City",81,67.16
+"Oklahoma City",84,66.86
+"Oklahoma City",87,67.17
+"Oklahoma City",90,61.69
+"Oklahoma City",93,60.8
+"Oklahoma City",96,63.73
+"Oklahoma City",99,61.53
+"Oklahoma City",102,66.26
+"Oklahoma City",105,66.09
+"Oklahoma City",108,58.21
+"Oklahoma City",111,55.07
+"Oklahoma City",114,51.16
+"Oklahoma City",117,43.95
+"Portland",0,43.56
+"Portland",3,54.9
+"Portland",6,60.62
+"Portland",9,60.58
+"Portland",12,53.23
+"Portland",15,50.86
+"Portland",18,49.32
+"Portland",21,47.9
+"Portland",24,47.58
+"Portland",27,50.94
+"Portland",30,54.84
+"Portland",33,51.09
+"Portland",36,49.77
+"Portland",39,50.05
+"Portland",42,45.71
+"Portland",45,45.22
+"Portland",48,45.28
+"Portland",51,45.8
+"Portland",54,48.3
+"Portland",57,45.34
+"Portland",60,44.99
+"Portland",63,41.13
+"Portland",66,40.02
+"Portland",69,38.55
+"Portland",72,38.98
+"Portland",75,43.3
+"Portland",78,44.88
+"Portland",81,45.5
+"Portland",84,43.97
+"Portland",87,43.12
+"Portland",90,42.85
+"Portland",93,43.13
+"Portland",96,43.47
+"Portland",99,43.46
+"Portland",102,43.2
+"Las Vegas",0,40.84
+"Las Vegas",3,63.91
+"Las Vegas",6,71.35
+"Las Vegas",9,70.66
+"Las Vegas",12,55.78
+"Las Vegas",15,48.88
+"Las Vegas",18,47.41
+"Las Vegas",21,44.13
+"Las Vegas",24,45.19
+"Las Vegas",27,62.2
+"Las Vegas",30,69.19
+"Las Vegas",33,69.24
+"Las Vegas",36,64.51
+"Las Vegas",39,61.74
+"Las Vegas",42,59.16
+"Las Vegas",45,57.06
+"Las Vegas",48,53.73
+"Las Vegas",51,59.63
+"Las Vegas",54,60.75
+"Las Vegas",57,58.15
+"Las Vegas",60,53.65
+"Las Vegas",63,50.17
+"Las Vegas",66,44.01
+"Las Vegas",69,38.14
+"Las Vegas",72,39.23
+"Las Vegas",75,50.44
+"Las Vegas",78,50.72
+"Las Vegas",81,46.96
+"Las Vegas",84,43.14
+"Las Vegas",87,40.98
+"Las Vegas",90,40.49
+"Las Vegas",93,39.2
+"Las Vegas",96,39.7
+"Las Vegas",99,49.33
+"Las Vegas",102,53.84
+"Las Vegas",105,54.3
+"Las Vegas",108,42.82
+"Las Vegas",111,35
+"Las Vegas",114,32.39
+"Las Vegas",117,30.45
+"Louisville",0,45.3
+"Louisville",3,49.37
+"Louisville",6,51.6
+"Louisville",9,45
+"Louisville",12,40
+"Louisville",15,34.39
+"Louisville",18,33.12
+"Louisville",21,37.1
+"Louisville",24,45.64
+"Louisville",27,55.48
+"Louisville",30,57.72
+"Louisville",33,49.6
+"Louisville",36,41.85
+"Louisville",39,34.71
+"Louisville",42,29.42
+"Louisville",45,25.6
+"Louisville",48,38.17
+"Louisville",51,47.74
+"Louisville",54,52.44
+"Louisville",57,45.16
+"Louisville",60,38.15
+"Louisville",63,33.7
+"Louisville",66,34.89
+"Louisville",69,38.64
+"Louisville",72,48.97
+"Louisville",75,59.68
+"Louisville",78,67.29
+"Louisville",81,62.06
+"Louisville",84,57.92
+"Louisville",87,57.43
+"Louisville",90,57.48
+"Louisville",93,58.02
+"Louisville",96,63.72
+"Louisville",99,65.42
+"Louisville",102,67.41
+"Milwaukee",0,30.94
+"Milwaukee",3,33.48
+"Milwaukee",6,34.7
+"Milwaukee",9,35.28
+"Milwaukee",12,35.08
+"Milwaukee",15,34.72
+"Milwaukee",18,36
+"Milwaukee",21,37.27
+"Milwaukee",24,37.62
+"Milwaukee",27,38.12
+"Milwaukee",30,37.92
+"Milwaukee",33,36.77
+"Milwaukee",36,35.92
+"Milwaukee",39,35.17
+"Milwaukee",42,34.68
+"Milwaukee",45,34.2
+"Milwaukee",48,35.2
+"Milwaukee",51,36.52
+"Milwaukee",54,37.92
+"Milwaukee",57,39.16
+"Milwaukee",60,40.51
+"Milwaukee",63,41.12
+"Milwaukee",66,41.63
+"Milwaukee",69,42.06
+"Milwaukee",72,42.78
+"Milwaukee",75,43.87
+"Milwaukee",78,43.75
+"Milwaukee",81,43.31
+"Milwaukee",84,42.47
+"Milwaukee",87,43.63
+"Milwaukee",90,45.04
+"Milwaukee",93,45.9
+"Milwaukee",96,45.55
+"Milwaukee",99,47.44
+"Milwaukee",102,49.11
+"Milwaukee",105,49.12
+"Milwaukee",108,49.17
+"Milwaukee",111,48.9
+"Milwaukee",114,45.67
+"Milwaukee",117,41.7
+"Albuquerque",0,42.35
+"Albuquerque",3,58.68
+"Albuquerque",6,63.21
+"Albuquerque",9,61.25
+"Albuquerque",12,48.7
+"Albuquerque",15,42.66
+"Albuquerque",18,39.58
+"Albuquerque",21,37.74
+"Albuquerque",24,38.61
+"Albuquerque",27,50.38
+"Albuquerque",30,54.36
+"Albuquerque",33,54.3
+"Albuquerque",36,44.44
+"Albuquerque",39,39.65
+"Albuquerque",42,36.39
+"Albuquerque",45,34.59
+"Albuquerque",48,38.37
+"Albuquerque",51,47.14
+"Albuquerque",54,50
+"Albuquerque",57,49.65
+"Albuquerque",60,43.03
+"Albuquerque",63,40.63
+"Albuquerque",66,37.8
+"Albuquerque",69,36.12
+"Albuquerque",72,35.72
+"Albuquerque",75,43.42
+"Albuquerque",78,47.84
+"Albuquerque",81,46.33
+"Albuquerque",84,38.06
+"Albuquerque",87,35.58
+"Albuquerque",90,34.82
+"Albuquerque",93,34.47
+"Albuquerque",96,33.22
+"Albuquerque",99,38.58
+"Albuquerque",102,41.51
+"Albuquerque",105,41.29
+"Albuquerque",108,34.5
+"Albuquerque",111,29.69
+"Albuquerque",114,27.13
+"Albuquerque",117,25.59
+"Tucson",0,48.15
+"Tucson",3,76.41
+"Tucson",6,81.59
+"Tucson",9,79.81
+"Tucson",12,59.34
+"Tucson",15,50.43
+"Tucson",18,46.42
+"Tucson",21,44.15
+"Tucson",24,50.47
+"Tucson",27,73.18
+"Tucson",30,76.12
+"Tucson",33,73.65
+"Tucson",36,59.34
+"Tucson",39,53.33
+"Tucson",42,48.94
+"Tucson",45,48.54
+"Tucson",48,51.35
+"Tucson",51,70.74
+"Tucson",54,73.2
+"Tucson",57,69.4
+"Tucson",60,62.92
+"Tucson",63,55.48
+"Tucson",66,50.36
+"Tucson",69,40.89
+"Tucson",72,43.41
+"Tucson",75,57.55
+"Tucson",78,61.16
+"Tucson",81,44.08
+"Tucson",84,42.42
+"Tucson",87,42.15
+"Tucson",90,41.35
+"Tucson",93,40.55
+"Tucson",96,40.33
+"Tucson",99,46.86
+"Tucson",102,49.61
+"Tucson",105,48
+"Tucson",108,38.68
+"Tucson",111,32.52
+"Tucson",114,29.42
+"Tucson",117,27.57
+"Fresno",0,52.02
+"Fresno",3,60.73
+"Fresno",6,69.66
+"Fresno",9,70.38
+"Fresno",12,62.58
+"Fresno",15,60.66
+"Fresno",18,58.26
+"Fresno",21,56.35
+"Fresno",24,55.27
+"Fresno",27,62.49
+"Fresno",30,62.35
+"Fresno",33,61.07
+"Fresno",36,59.07
+"Fresno",39,57.69
+"Fresno",42,55.13
+"Fresno",45,51.21
+"Fresno",48,46.51
+"Fresno",51,58.41
+"Fresno",54,58.75
+"Fresno",57,57.57
+"Fresno",60,51.67
+"Fresno",63,49.63
+"Fresno",66,49.64
+"Fresno",69,47.59
+"Fresno",72,44.36
+"Fresno",75,52.1
+"Fresno",78,49.19
+"Fresno",81,48.08
+"Fresno",84,48.09
+"Fresno",87,47.01
+"Fresno",90,45.13
+"Fresno",93,42.84
+"Fresno",96,40.96
+"Fresno",99,51.18
+"Fresno",102,58.52
+"Fresno",105,60.33
+"Fresno",108,50.7
+"Fresno",111,42.42
+"Fresno",114,40.58
+"Fresno",117,41.61
+"Sacramento",0,56.07
+"Sacramento",3,64.94
+"Sacramento",6,70.92
+"Sacramento",9,59.04
+"Sacramento",12,57.4
+"Sacramento",15,56.64
+"Sacramento",18,56.71
+"Sacramento",21,57.06
+"Sacramento",24,55.53
+"Sacramento",27,62.33
+"Sacramento",30,57.99
+"Sacramento",33,57.76
+"Sacramento",36,57.54
+"Sacramento",39,55.42
+"Sacramento",42,51.87
+"Sacramento",45,49.42
+"Sacramento",48,48.99
+"Sacramento",51,53.38
+"Sacramento",54,57.52
+"Sacramento",57,57.66
+"Sacramento",60,51.58
+"Sacramento",63,48.77
+"Sacramento",66,47.66
+"Sacramento",69,45.88
+"Sacramento",72,46.7
+"Sacramento",75,47.2
+"Sacramento",78,51.26
+"Sacramento",81,55.6
+"Sacramento",84,48.9
+"Sacramento",87,43.81
+"Sacramento",90,40.09
+"Sacramento",93,36.36
+"Sacramento",96,35.29
+"Sacramento",99,50.82
+"Sacramento",102,58.38
+"Sacramento",105,59.2
+"Sacramento",108,52.05
+"Sacramento",111,47.82
+"Sacramento",114,46.12
+"Sacramento",117,46.38
+"Long Beach",0,55.98
+"Long Beach",3,60.3
+"Long Beach",6,62.6
+"Long Beach",9,62.85
+"Long Beach",12,61.29
+"Long Beach",15,59.52
+"Long Beach",18,59.11
+"Long Beach",21,59.31
+"Long Beach",24,58.6
+"Long Beach",27,59.68
+"Long Beach",30,63.03
+"Long Beach",33,62.67
+"Long Beach",36,61.47
+"Long Beach",39,60.89
+"Long Beach",42,60.51
+"Long Beach",45,59.43
+"Long Beach",48,59.36
+"Long Beach",51,60.35
+"Long Beach",54,59.61
+"Long Beach",57,59.91
+"Long Beach",60,59.95
+"Long Beach",63,59.98
+"Long Beach",66,55.31
+"Long Beach",69,54.34
+"Long Beach",72,56.78
+"Long Beach",75,59.03
+"Long Beach",78,58.42
+"Long Beach",81,57.58
+"Long Beach",84,56.91
+"Long Beach",87,57.36
+"Long Beach",90,57.73
+"Long Beach",93,57.96
+"Long Beach",96,58.15
+"Long Beach",99,60.54
+"Long Beach",102,64.19
+"Long Beach",105,64.06
+"Long Beach",108,63.25
+"Long Beach",111,60.65
+"Long Beach",114,58.67
+"Long Beach",117,56.64
+"Kansas City",0,39.63
+"Kansas City",3,55.98
+"Kansas City",6,63.23
+"Kansas City",9,61.77
+"Kansas City",12,56.64
+"Kansas City",15,49.3
+"Kansas City",18,42.87
+"Kansas City",21,33.35
+"Kansas City",24,49.15
+"Kansas City",27,58.93
+"Kansas City",30,62.8
+"Kansas City",33,57.78
+"Kansas City",36,48.69
+"Kansas City",39,46.17
+"Kansas City",42,45.97
+"Kansas City",45,49.32
+"Kansas City",48,55.4
+"Kansas City",51,64.22
+"Kansas City",54,69.84
+"Kansas City",57,67.33
+"Kansas City",60,64.54
+"Kansas City",63,63.31
+"Kansas City",66,59.14
+"Kansas City",69,63.93
+"Kansas City",72,70.1
+"Kansas City",75,76.22
+"Kansas City",78,76.78
+"Kansas City",81,70.76
+"Kansas City",84,64.11
+"Kansas City",87,60.87
+"Kansas City",90,61.82
+"Kansas City",93,62.78
+"Kansas City",96,66.88
+"Kansas City",99,71.29
+"Kansas City",102,64.64
+"Kansas City",105,65.14
+"Kansas City",108,58.53
+"Kansas City",111,53.4
+"Kansas City",114,53.54
+"Kansas City",117,50.52
+"Mesa",0,49.08
+"Mesa",3,74.43
+"Mesa",6,80.96
+"Mesa",9,79.09
+"Mesa",12,60.15
+"Mesa",15,53.94
+"Mesa",18,49.71
+"Mesa",21,48.24
+"Mesa",24,52.12
+"Mesa",27,71.92
+"Mesa",30,73.56
+"Mesa",33,72.57
+"Mesa",36,59.61
+"Mesa",39,52.25
+"Mesa",42,50.61
+"Mesa",45,51.42
+"Mesa",48,53.15
+"Mesa",51,70.25
+"Mesa",54,69.66
+"Mesa",57,66.25
+"Mesa",60,56.62
+"Mesa",63,50.66
+"Mesa",66,43.2
+"Mesa",69,43.14
+"Mesa",72,45.26
+"Mesa",75,53.68
+"Mesa",78,57.47
+"Mesa",81,47.23
+"Mesa",84,45.12
+"Mesa",87,43.18
+"Mesa",90,42.97
+"Mesa",93,41.76
+"Mesa",96,42.76
+"Mesa",99,49.06
+"Mesa",102,51.54
+"Mesa",105,51.55
+"Mesa",108,41.83
+"Mesa",111,36.17
+"Mesa",114,33.7
+"Mesa",117,32.52
+"Atlanta",0,44.49
+"Atlanta",3,52.41
+"Atlanta",6,55.31
+"Atlanta",9,48.22
+"Atlanta",12,40.98
+"Atlanta",15,34
+"Atlanta",18,30.76
+"Atlanta",21,29.39
+"Atlanta",24,49.48
+"Atlanta",27,58.75
+"Atlanta",30,62.53
+"Atlanta",33,56.88
+"Atlanta",36,50.49
+"Atlanta",39,46.31
+"Atlanta",42,41.11
+"Atlanta",45,35.91
+"Atlanta",48,49.73
+"Atlanta",51,61.25
+"Atlanta",54,64.89
+"Atlanta",57,54.91
+"Atlanta",60,46.18
+"Atlanta",63,42.74
+"Atlanta",66,40.5
+"Atlanta",69,38.64
+"Atlanta",72,53.54
+"Atlanta",75,64.25
+"Atlanta",78,67.06
+"Atlanta",81,60.68
+"Atlanta",84,53.36
+"Atlanta",87,49.08
+"Atlanta",90,48.73
+"Atlanta",93,48.29
+"Atlanta",96,62.02
+"Atlanta",99,74.44
+"Atlanta",102,76.83
+"Atlanta",105,71.35
+"Atlanta",108,66.45
+"Atlanta",111,64.29
+"Atlanta",114,61.15
+"Atlanta",117,58.98
+"Virginia Beach",0,44.55
+"Virginia Beach",3,44.1
+"Virginia Beach",6,42.89
+"Virginia Beach",9,42.33
+"Virginia Beach",12,42.51
+"Virginia Beach",15,42.55
+"Virginia Beach",18,42.64
+"Virginia Beach",21,42.44
+"Virginia Beach",24,42.28
+"Virginia Beach",27,42.13
+"Virginia Beach",30,42.46
+"Virginia Beach",33,43.14
+"Virginia Beach",36,43.11
+"Virginia Beach",39,43.25
+"Virginia Beach",42,45.3
+"Virginia Beach",45,46.47
+"Virginia Beach",48,45.09
+"Virginia Beach",51,44.96
+"Virginia Beach",54,44.94
+"Virginia Beach",57,44.97
+"Virginia Beach",60,45.1
+"Virginia Beach",63,45.13
+"Virginia Beach",66,45.23
+"Virginia Beach",69,45.61
+"Virginia Beach",72,46.29
+"Virginia Beach",75,47.02
+"Virginia Beach",78,48.47
+"Virginia Beach",81,50.29
+"Virginia Beach",84,49.67
+"Virginia Beach",87,49.35
+"Virginia Beach",90,48.82
+"Virginia Beach",93,48.6
+"Virginia Beach",96,50.23
+"Virginia Beach",99,54.64
+"Virginia Beach",102,56.58
+"Virginia Beach",105,56.64
+"Virginia Beach",108,53.53
+"Virginia Beach",111,53
+"Virginia Beach",114,52.28
+"Virginia Beach",117,51.69
+"Omaha",0,40.51
+"Omaha",3,48.88
+"Omaha",6,55.45
+"Omaha",9,54.57
+"Omaha",12,43.77
+"Omaha",15,38.32
+"Omaha",18,34.84
+"Omaha",21,30.99
+"Omaha",24,40.46
+"Omaha",27,50.11
+"Omaha",30,55.53
+"Omaha",33,52.92
+"Omaha",36,48.24
+"Omaha",39,46.33
+"Omaha",42,45.32
+"Omaha",45,43.54
+"Omaha",48,47.5
+"Omaha",51,59.77
+"Omaha",54,68.22
+"Omaha",57,66.57
+"Omaha",60,61.93
+"Omaha",63,59.71
+"Omaha",66,60.98
+"Omaha",69,60.33
+"Omaha",72,64.61
+"Omaha",75,69.65
+"Omaha",78,74.53
+"Omaha",81,66.22
+"Omaha",84,65.24
+"Omaha",87,64.24
+"Omaha",90,64.03
+"Omaha",93,61.47
+"Omaha",96,58.42
+"Omaha",99,62.79
+"Omaha",102,60.18
+"Omaha",105,56.05
+"Omaha",108,51.82
+"Omaha",111,49.04
+"Omaha",114,46.12
+"Omaha",117,43.5
+"Colorado Springs",0,46.35
+"Colorado Springs",3,65.97
+"Colorado Springs",6,64.72
+"Colorado Springs",9,59.5
+"Colorado Springs",12,48.78
+"Colorado Springs",15,40.86
+"Colorado Springs",18,33.51
+"Colorado Springs",21,31.78
+"Colorado Springs",24,37.26
+"Colorado Springs",27,55.31
+"Colorado Springs",30,59.34
+"Colorado Springs",33,58.55
+"Colorado Springs",36,47.1
+"Colorado Springs",39,41.04
+"Colorado Springs",42,36.77
+"Colorado Springs",45,34.18
+"Colorado Springs",48,39.33
+"Colorado Springs",51,56.89
+"Colorado Springs",54,58.98
+"Colorado Springs",57,52.48
+"Colorado Springs",60,46.27
+"Colorado Springs",63,36.31
+"Colorado Springs",66,31.5
+"Colorado Springs",69,30.49
+"Colorado Springs",72,35.94
+"Colorado Springs",75,49.13
+"Colorado Springs",78,50.23
+"Colorado Springs",81,46.28
+"Colorado Springs",84,39.09
+"Colorado Springs",87,32.43
+"Colorado Springs",90,24.34
+"Colorado Springs",93,20.52
+"Colorado Springs",96,28.81
+"Colorado Springs",99,37.95
+"Colorado Springs",102,38.99
+"Colorado Springs",105,37.47
+"Colorado Springs",108,33.15
+"Colorado Springs",111,26.76
+"Colorado Springs",114,22
+"Colorado Springs",117,17.67
+"Raleigh",0,42.24
+"Raleigh",3,48.69
+"Raleigh",6,51.12
+"Raleigh",9,44.49
+"Raleigh",12,36.57
+"Raleigh",15,34.68
+"Raleigh",18,32.79
+"Raleigh",21,29.3
+"Raleigh",24,46.51
+"Raleigh",27,54.43
+"Raleigh",30,56.73
+"Raleigh",33,52.77
+"Raleigh",36,46.65
+"Raleigh",39,41.76
+"Raleigh",42,39.81
+"Raleigh",45,39.69
+"Raleigh",48,49.37
+"Raleigh",51,55.67
+"Raleigh",54,57.09
+"Raleigh",57,47.94
+"Raleigh",60,40.51
+"Raleigh",63,35.72
+"Raleigh",66,33.89
+"Raleigh",69,32.25
+"Raleigh",72,51.47
+"Raleigh",75,60.83
+"Raleigh",78,63.1
+"Raleigh",81,53.26
+"Raleigh",84,45.93
+"Raleigh",87,46.29
+"Raleigh",90,45.8
+"Raleigh",93,44.87
+"Raleigh",96,62.56
+"Raleigh",99,71.38
+"Raleigh",102,72.96
+"Raleigh",105,64.96
+"Raleigh",108,61.27
+"Raleigh",111,58.22
+"Raleigh",114,55.48
+"Raleigh",117,54.39
+"Miami",0,94.19
+"Miami",3,95.5
+"Miami",6,94.55
+"Miami",9,90.14
+"Miami",12,82.83
+"Miami",15,77.09
+"Miami",18,73.24
+"Miami",21,73.33
+"Miami",24,88.21
+"Miami",27,87.37
+"Miami",30,85.3
+"Miami",33,80.82
+"Miami",36,78.06
+"Miami",39,75.33
+"Miami",42,71.15
+"Miami",45,70.25
+"Miami",48,79.9
+"Miami",51,82.17
+"Miami",54,80.08
+"Miami",57,72.78
+"Miami",60,67.6
+"Miami",63,64.84
+"Miami",66,63.64
+"Miami",69,63.43
+"Miami",72,76.13
+"Miami",75,78.2
+"Miami",78,77.05
+"Miami",81,71.71
+"Miami",84,69.74
+"Miami",87,68.43
+"Miami",90,67.27
+"Miami",93,67.59
+"Miami",96,78.94
+"Miami",99,80.43
+"Miami",102,79.53
+"Miami",105,74.1
+"Miami",108,72.43
+"Miami",111,71.76
+"Miami",114,71.45
+"Miami",117,72.3
+"Oakland",0,56.25
+"Oakland",3,57.78
+"Oakland",6,59.58
+"Oakland",9,57.94
+"Oakland",12,57.09
+"Oakland",15,57.09
+"Oakland",18,57.18
+"Oakland",21,56.7
+"Oakland",24,57.4
+"Oakland",27,57.94
+"Oakland",30,58.44
+"Oakland",33,58.14
+"Oakland",36,57.51
+"Oakland",39,54.45
+"Oakland",42,54.16
+"Oakland",45,53.82
+"Oakland",48,53.55
+"Oakland",51,53.64
+"Oakland",54,55.44
+"Oakland",57,55
+"Oakland",60,51.31
+"Oakland",63,50.57
+"Oakland",66,47.66
+"Oakland",69,47.37
+"Oakland",72,47.64
+"Oakland",75,49.18
+"Oakland",78,53.42
+"Oakland",81,54.34
+"Oakland",84,51.47
+"Oakland",87,49.53
+"Oakland",90,48.14
+"Oakland",93,47.16
+"Oakland",96,46.18
+"Oakland",99,51.81
+"Oakland",102,55.86
+"Oakland",105,55.24
+"Oakland",108,52.72
+"Oakland",111,50.75
+"Oakland",114,49.85
+"Oakland",117,49.35
+"Minneapolis",0,23.58
+"Minneapolis",3,30.15
+"Minneapolis",6,34.7
+"Minneapolis",9,36.12
+"Minneapolis",12,37.71
+"Minneapolis",15,30.85
+"Minneapolis",18,27.57
+"Minneapolis",21,24.93
+"Minneapolis",24,26.71
+"Minneapolis",27,35.02
+"Minneapolis",30,39.54
+"Minneapolis",33,34.77
+"Minneapolis",36,28.56
+"Minneapolis",39,27.59
+"Minneapolis",42,28.65
+"Minneapolis",45,31.62
+"Minneapolis",48,40.23
+"Minneapolis",51,49.23
+"Minneapolis",54,53.04
+"Minneapolis",57,49.74
+"Minneapolis",60,45.55
+"Minneapolis",63,45.26
+"Minneapolis",66,44.46
+"Minneapolis",69,43.14
+"Minneapolis",72,51.02
+"Minneapolis",75,62.23
+"Minneapolis",78,59.86
+"Minneapolis",81,55.06
+"Minneapolis",84,55.92
+"Minneapolis",87,56.37
+"Minneapolis",90,55.3
+"Minneapolis",93,54.81
+"Minneapolis",96,56.98
+"Minneapolis",99,53.7
+"Minneapolis",102,49.25
+"Minneapolis",105,45.52
+"Minneapolis",108,38.05
+"Minneapolis",111,32.79
+"Minneapolis",114,26.9
+"Minneapolis",117,22.71
+"Tulsa",0,66.61
+"Tulsa",3,81.84
+"Tulsa",6,85.66
+"Tulsa",9,80.64
+"Tulsa",12,68.4
+"Tulsa",15,61.54
+"Tulsa",18,56.5
+"Tulsa",21,52.81
+"Tulsa",24,61.54
+"Tulsa",27,75.88
+"Tulsa",30,80.29
+"Tulsa",33,76.1
+"Tulsa",36,65.7
+"Tulsa",39,61.5
+"Tulsa",42,61.11
+"Tulsa",45,60.08
+"Tulsa",48,64.2
+"Tulsa",51,71.44
+"Tulsa",54,73.45
+"Tulsa",57,71.52
+"Tulsa",60,68.59
+"Tulsa",63,68.35
+"Tulsa",66,69.21
+"Tulsa",69,66.9
+"Tulsa",72,68.57
+"Tulsa",75,70.69
+"Tulsa",78,66.29
+"Tulsa",81,66.4
+"Tulsa",84,60.47
+"Tulsa",87,62.04
+"Tulsa",90,62.68
+"Tulsa",93,62.69
+"Tulsa",96,62.02
+"Tulsa",99,60.63
+"Tulsa",102,62.3
+"Tulsa",105,62.49
+"Tulsa",108,55.92
+"Tulsa",111,54.35
+"Tulsa",114,47.33
+"Tulsa",117,48.72
+"Cleveland",0,31.68
+"Cleveland",3,33.69
+"Cleveland",6,32.81
+"Cleveland",9,24.37
+"Cleveland",12,16.05
+"Cleveland",15,14.43
+"Cleveland",18,18.75
+"Cleveland",21,23.31
+"Cleveland",24,30.76
+"Cleveland",27,36.82
+"Cleveland",30,36.16
+"Cleveland",33,34.05
+"Cleveland",36,32.22
+"Cleveland",39,27.36
+"Cleveland",42,21.76
+"Cleveland",45,15.39
+"Cleveland",48,30.6
+"Cleveland",51,36.68
+"Cleveland",54,39.72
+"Cleveland",57,33.45
+"Cleveland",60,32.23
+"Cleveland",63,35.77
+"Cleveland",66,35.92
+"Cleveland",69,37.38
+"Cleveland",72,43.82
+"Cleveland",75,50.93
+"Cleveland",78,52.48
+"Cleveland",81,47.36
+"Cleveland",84,45.71
+"Cleveland",87,45.21
+"Cleveland",90,43.78
+"Cleveland",93,42.84
+"Cleveland",96,48.52
+"Cleveland",99,59.14
+"Cleveland",102,61.04
+"Cleveland",105,57.31
+"Cleveland",108,56.05
+"Cleveland",111,55.97
+"Cleveland",114,55.21
+"Cleveland",117,54.3
+"Wichita",0,44.28
+"Wichita",3,63.36
+"Wichita",6,68.99
+"Wichita",9,67.53
+"Wichita",12,56.61
+"Wichita",15,50.88
+"Wichita",18,42.87
+"Wichita",21,33.03
+"Wichita",24,50.29
+"Wichita",27,64.15
+"Wichita",30,67.71
+"Wichita",33,63.18
+"Wichita",36,55.2
+"Wichita",39,54.23
+"Wichita",42,56.64
+"Wichita",45,57.27
+"Wichita",48,62.55
+"Wichita",51,70.25
+"Wichita",54,74.28
+"Wichita",57,73.36
+"Wichita",60,69.85
+"Wichita",63,67.76
+"Wichita",66,69.67
+"Wichita",69,67.89
+"Wichita",72,72.39
+"Wichita",75,78.38
+"Wichita",78,76.78
+"Wichita",81,66.85
+"Wichita",84,64.56
+"Wichita",87,65.64
+"Wichita",90,65.15
+"Wichita",93,57.87
+"Wichita",96,62.47
+"Wichita",99,67.33
+"Wichita",102,69.63
+"Wichita",105,68.02
+"Wichita",108,62.58
+"Wichita",111,54.66
+"Wichita",114,46.66
+"Wichita",117,45.39
+"New Orleans",0,53.31
+"New Orleans",3,58.82
+"New Orleans",6,61.83
+"New Orleans",9,60.51
+"New Orleans",12,56.43
+"New Orleans",15,54.19
+"New Orleans",18,52.51
+"New Orleans",21,51.59
+"New Orleans",24,60.94
+"New Orleans",27,64.48
+"New Orleans",30,65.05
+"New Orleans",33,61.89
+"New Orleans",36,56.12
+"New Orleans",39,54.91
+"New Orleans",42,53.27
+"New Orleans",45,51.93
+"New Orleans",48,61.35
+"New Orleans",51,65.33
+"New Orleans",54,65.31
+"New Orleans",57,62.58
+"New Orleans",60,58.17
+"New Orleans",63,58.18
+"New Orleans",66,57.71
+"New Orleans",69,57.41
+"New Orleans",72,65.22
+"New Orleans",75,68.86
+"New Orleans",78,69.85
+"New Orleans",81,67.1
+"New Orleans",84,64.27
+"New Orleans",87,64.32
+"New Orleans",90,64.59
+"New Orleans",93,65
+"New Orleans",96,68.58
+"New Orleans",99,71.63
+"New Orleans",102,70.29
+"Arlington",0,56.25
+"Arlington",3,67.17
+"Arlington",6,70.61
+"Arlington",9,67.17
+"Arlington",12,57
+"Arlington",15,51.51
+"Arlington",18,49.53
+"Arlington",21,46.49
+"Arlington",24,57.07
+"Arlington",27,72.25
+"Arlington",30,77.25
+"Arlington",33,72.48
+"Arlington",36,61.77
+"Arlington",39,58.86
+"Arlington",42,58.93
+"Arlington",45,54.81
+"Arlington",48,58.82
+"Arlington",51,68.18
+"Arlington",54,75.51
+"Arlington",57,74.85
+"Arlington",60,71.83
+"Arlington",63,68.89
+"Arlington",66,65.25
+"Arlington",69,63.12
+"Arlington",72,63.93
+"Arlington",75,65.47
+"Arlington",78,74.57
+"Arlington",81,72.16
+"Arlington",84,67.31
+"Arlington",87,65.91
+"Arlington",90,67.18
+"Arlington",93,61.56
+"Arlington",96,60.4
+"Arlington",99,65.44
+"Arlington",102,67.7
+"Arlington",105,66.63
+"Arlington",108,59.43
+"Arlington",111,54.21
+"Arlington",114,53.27
+"Arlington",117,56.28
+"Bakersfield",0,38.55
+"Bakersfield",3,58.89
+"Bakersfield",6,66.02
+"Bakersfield",9,64.38
+"Bakersfield",12,56.1
+"Bakersfield",15,50.16
+"Bakersfield",18,50.88
+"Bakersfield",21,50.99
+"Bakersfield",24,50.65
+"Bakersfield",27,58.87
+"Bakersfield",30,66
+"Bakersfield",33,64.02
+"Bakersfield",36,55.74
+"Bakersfield",39,55.04
+"Bakersfield",42,52.54
+"Bakersfield",45,50.04
+"Bakersfield",48,47.03
+"Bakersfield",51,49.23
+"Bakersfield",54,53.64
+"Bakersfield",57,47.76
+"Bakersfield",60,46.99
+"Bakersfield",63,45.76
+"Bakersfield",66,44.55
+"Bakersfield",69,42.87
+"Bakersfield",72,42.96
+"Bakersfield",75,43.06
+"Bakersfield",78,44.11
+"Bakersfield",81,41.33
+"Bakersfield",84,40.22
+"Bakersfield",87,40.89
+"Bakersfield",90,41.39
+"Bakersfield",93,40.73
+"Bakersfield",96,40.33
+"Bakersfield",99,43.03
+"Bakersfield",102,47.04
+"Bakersfield",105,48.94
+"Bakersfield",108,40.12
+"Bakersfield",111,34.59
+"Bakersfield",114,32.08
+"Bakersfield",117,31.08
+"Tampa",0,73.35
+"Tampa",3,81.81
+"Tampa",6,81.36
+"Tampa",9,70.3
+"Tampa",12,59.71
+"Tampa",15,54.51
+"Tampa",18,51.7
+"Tampa",21,50.02
+"Tampa",24,68.68
+"Tampa",27,77.94
+"Tampa",30,80.04
+"Tampa",33,70.3
+"Tampa",36,61.65
+"Tampa",39,55.45
+"Tampa",42,50.25
+"Tampa",45,49
+"Tampa",48,72.01
+"Tampa",51,80.45
+"Tampa",54,82.41
+"Tampa",57,75.63
+"Tampa",60,68.7
+"Tampa",63,62.28
+"Tampa",66,58.47
+"Tampa",69,56.33
+"Tampa",72,73.5
+"Tampa",75,81.55
+"Tampa",78,82.41
+"Tampa",81,74.62
+"Tampa",84,67.28
+"Tampa",87,62.65
+"Tampa",90,58.42
+"Tampa",93,55.73
+"Tampa",96,74.25
+"Tampa",99,82.25
+"Tampa",102,84.42
+"Aurora",0,33.96
+"Aurora",3,51.96
+"Aurora",6,52.52
+"Aurora",9,49.75
+"Aurora",12,37.11
+"Aurora",15,30.72
+"Aurora",18,31.26
+"Aurora",21,30.69
+"Aurora",24,35.98
+"Aurora",27,55.78
+"Aurora",30,58.93
+"Aurora",33,55.2
+"Aurora",36,46.56
+"Aurora",39,40.05
+"Aurora",42,32.74
+"Aurora",45,29.52
+"Aurora",48,37.89
+"Aurora",51,56.75
+"Aurora",54,59.25
+"Aurora",57,54.15
+"Aurora",60,43.39
+"Aurora",63,33.92
+"Aurora",66,31.19
+"Aurora",69,34.41
+"Aurora",72,39.14
+"Aurora",75,45.8
+"Aurora",78,37.99
+"Aurora",81,36.52
+"Aurora",84,32.07
+"Aurora",87,30.81
+"Aurora",90,30.64
+"Aurora",93,28.22
+"Aurora",96,30.7
+"Aurora",99,35.52
+"Aurora",102,37.68
+"Aurora",105,35.94
+"Aurora",108,26.71
+"Aurora",111,20.46
+"Aurora",114,19.79
+"Aurora",117,17.4
+"Honolulu",0,55.98
+"Honolulu",3,61.36
+"Honolulu",6,75.78
+"Honolulu",9,79.29
+"Honolulu",12,77.13
+"Honolulu",15,68.85
+"Honolulu",18,62.62
+"Honolulu",21,59.56
+"Honolulu",24,61.72
+"Honolulu",27,66.72
+"Honolulu",30,77.92
+"Honolulu",33,81.54
+"Honolulu",36,80.58
+"Honolulu",39,72.14
+"Honolulu",42,66.79
+"Honolulu",45,64.85
+"Honolulu",48,63.66
+"Honolulu",51,68.49
+"Honolulu",54,80.29
+"Honolulu",57,84.61
+"Honolulu",60,83.62
+"Honolulu",63,73.03
+"Honolulu",66,66.06
+"Honolulu",69,62.53
+"Honolulu",72,60.78
+"Honolulu",75,66.73
+"Honolulu",78,81.41
+"Honolulu",81,83.32
+"Honolulu",84,83.55
+"Honolulu",87,73.74
+"Honolulu",90,68.21
+"Honolulu",93,66.06
+"Honolulu",96,69.13
+"Honolulu",99,72.06
+"Honolulu",102,80.43
+"Honolulu",105,81.57
+"Honolulu",108,79.95
+"Honolulu",111,69.96
+"Honolulu",114,67.36
+"Honolulu",117,66.27
+"Anaheim",0,54.88
+"Anaheim",3,56.46
+"Anaheim",6,59.76
+"Anaheim",9,60.94
+"Anaheim",12,59.71
+"Anaheim",15,58.29
+"Anaheim",18,57.87
+"Anaheim",21,57.31
+"Anaheim",24,57.34
+"Anaheim",27,60.34
+"Anaheim",30,62.71
+"Anaheim",33,62.79
+"Anaheim",36,61.07
+"Anaheim",39,59.77
+"Anaheim",42,60.2
+"Anaheim",45,59.67
+"Anaheim",48,59.64
+"Anaheim",51,61.28
+"Anaheim",54,59.32
+"Anaheim",57,60.19
+"Anaheim",60,59.57
+"Anaheim",63,59.44
+"Anaheim",66,60.05
+"Anaheim",69,57.36
+"Anaheim",72,56.13
+"Anaheim",75,57.52
+"Anaheim",78,57.93
+"Anaheim",81,60.31
+"Anaheim",84,58.87
+"Anaheim",87,57.25
+"Anaheim",90,57.75
+"Anaheim",93,57.8
+"Anaheim",96,57.15
+"Anaheim",99,58.85
+"Anaheim",102,63.18
+"Santa Ana",0,43.23
+"Santa Ana",3,62.01
+"Santa Ana",6,66.78
+"Santa Ana",9,64.47
+"Santa Ana",12,56.34
+"Santa Ana",15,49.89
+"Santa Ana",18,47.73
+"Santa Ana",21,48.96
+"Santa Ana",24,49.87
+"Santa Ana",27,57.52
+"Santa Ana",30,63.7
+"Santa Ana",33,63.48
+"Santa Ana",36,59.16
+"Santa Ana",39,57.42
+"Santa Ana",42,57.04
+"Santa Ana",45,55.47
+"Santa Ana",48,55.22
+"Santa Ana",51,56.43
+"Santa Ana",54,57.51
+"Santa Ana",57,54.24
+"Santa Ana",60,53.11
+"Santa Ana",63,52.33
+"Santa Ana",66,51.12
+"Santa Ana",69,50.56
+"Santa Ana",72,49.31
+"Santa Ana",75,54.85
+"Santa Ana",78,55.94
+"Santa Ana",81,51.5
+"Santa Ana",84,48.14
+"Santa Ana",87,46.38
+"Santa Ana",90,44.23
+"Santa Ana",93,41.49
+"Santa Ana",96,41.59
+"Santa Ana",99,55.14
+"Santa Ana",102,61.08
+"Santa Ana",105,61
+"Santa Ana",108,51.46
+"Santa Ana",111,45.89
+"Santa Ana",114,43.42
+"Santa Ana",117,41.16
+"Corpus Christi",0,67.46
+"Corpus Christi",3,68.74
+"Corpus Christi",6,69.04
+"Corpus Christi",9,68.2
+"Corpus Christi",12,66.09
+"Corpus Christi",15,65.88
+"Corpus Christi",18,65.23
+"Corpus Christi",21,65.14
+"Corpus Christi",24,68.29
+"Corpus Christi",27,70.3
+"Corpus Christi",30,70.29
+"Corpus Christi",33,68.94
+"Corpus Christi",36,68.41
+"Corpus Christi",39,68.27
+"Corpus Christi",42,67.3
+"Corpus Christi",45,66.67
+"Corpus Christi",48,68.54
+"Corpus Christi",51,69.6
+"Corpus Christi",54,70.34
+"Corpus Christi",57,68.86
+"Corpus Christi",60,68.14
+"Corpus Christi",63,67.9
+"Corpus Christi",66,67.95
+"Corpus Christi",69,67.98
+"Corpus Christi",72,68.84
+"Corpus Christi",75,70.06
+"Corpus Christi",78,69.22
+"Corpus Christi",81,69.41
+"Corpus Christi",84,69.15
+"Corpus Christi",87,69.19
+"Corpus Christi",90,69.2
+"Corpus Christi",93,69.21
+"Corpus Christi",96,70.57
+"Corpus Christi",99,72.06
+"Corpus Christi",102,72.29
+"Corpus Christi",105,72.12
+"Corpus Christi",108,68.2
+"Corpus Christi",111,68.07
+"Corpus Christi",114,66.82
+"Corpus Christi",117,64.47
+"Riverside",0,34.66
+"Riverside",3,59.32
+"Riverside",6,64.78
+"Riverside",9,63.18
+"Riverside",12,53.96
+"Riverside",15,44.87
+"Riverside",18,40.46
+"Riverside",21,39.25
+"Riverside",24,41.13
+"Riverside",27,56.77
+"Riverside",30,60.48
+"Riverside",33,61.29
+"Riverside",36,54.32
+"Riverside",39,51.8
+"Riverside",42,49.95
+"Riverside",45,47.52
+"Riverside",48,47.61
+"Riverside",51,51.89
+"Riverside",54,52.11
+"Riverside",57,48.12
+"Riverside",60,45.46
+"Riverside",63,43.6
+"Riverside",66,43.39
+"Riverside",69,42.91
+"Riverside",72,42.02
+"Riverside",75,47.42
+"Riverside",78,51.67
+"Riverside",81,44.03
+"Riverside",84,40.49
+"Riverside",87,38.46
+"Riverside",90,35.95
+"Riverside",93,35.82
+"Riverside",96,36.46
+"Riverside",99,50.73
+"Riverside",102,56.54
+"Riverside",105,57.45
+"Riverside",108,44.98
+"Riverside",111,37.92
+"Riverside",114,34.73
+"Riverside",117,33.15
+"St. Louis",0,17.1
+"St. Louis",3,21.97
+"St. Louis",6,25.11
+"St. Louis",9,21.11
+"St. Louis",12,6.84
+"St. Louis",15,7.12
+"St. Louis",18,8.33
+"St. Louis",21,19.2
+"St. Louis",24,23.34
+"St. Louis",27,32.14
+"St. Louis",30,36.14
+"St. Louis",33,30.13
+"St. Louis",36,20.26
+"St. Louis",39,36.09
+"St. Louis",42,35.87
+"St. Louis",45,35.73
+"St. Louis",48,30.7
+"St. Louis",51,32.31
+"St. Louis",54,32.56
+"St. Louis",57,32.19
+"St. Louis",60,30.43
+"St. Louis",63,31.94
+"St. Louis",66,31.59
+"St. Louis",69,31.17
+"St. Louis",72,30.32
+"St. Louis",75,28.03
+"St. Louis",78,24.67
+"St. Louis",81,21.08
+"St. Louis",84,18.71
+"St. Louis",87,16.95
+"St. Louis",90,14.89
+"St. Louis",93,14.04
+"St. Louis",96,12.07
+"St. Louis",99,17.34
+"St. Louis",102,18.83
+"St. Louis",105,16.5
+"St. Louis",108,6.19
+"St. Louis",111,6.02
+"St. Louis",114,3.28
+"St. Louis",117,2.55
+"Lexington",0,36
+"Lexington",3,43.77
+"Lexington",6,47.25
+"Lexington",9,38.41
+"Lexington",12,27.99
+"Lexington",15,24.37
+"Lexington",18,27.39
+"Lexington",21,33.84
+"Lexington",24,39.58
+"Lexington",27,47.68
+"Lexington",30,53.71
+"Lexington",33,45.18
+"Lexington",36,38.46
+"Lexington",39,32.63
+"Lexington",42,26.04
+"Lexington",45,21.45
+"Lexington",48,38.34
+"Lexington",51,47.48
+"Lexington",54,52.14
+"Lexington",57,44.88
+"Lexington",60,40.06
+"Lexington",63,40.99
+"Lexington",66,39.24
+"Lexington",69,42.06
+"Lexington",72,48.99
+"Lexington",75,62.27
+"Lexington",78,63.73
+"Lexington",81,58.25
+"Lexington",84,53.49
+"Lexington",87,50.74
+"Lexington",90,51.2
+"Lexington",93,52.47
+"Lexington",96,60.67
+"Lexington",99,67.11
+"Lexington",102,69.99
+"Lexington",105,65.41
+"Lexington",108,62.13
+"Lexington",111,61.32
+"Lexington",114,62.54
+"Lexington",117,55.65
+"Pittsburgh",0,35.44
+"Pittsburgh",3,41.13
+"Pittsburgh",6,41.14
+"Pittsburgh",9,32.04
+"Pittsburgh",12,20.7
+"Pittsburgh",15,16.26
+"Pittsburgh",18,15.39
+"Pittsburgh",21,22.66
+"Pittsburgh",24,34.48
+"Pittsburgh",27,39.01
+"Pittsburgh",30,39.09
+"Pittsburgh",33,39.84
+"Pittsburgh",36,40.69
+"Pittsburgh",39,36.1
+"Pittsburgh",42,32.88
+"Pittsburgh",45,30.42
+"Pittsburgh",48,32.64
+"Pittsburgh",51,38.38
+"Pittsburgh",54,39.88
+"Pittsburgh",57,29.1
+"Pittsburgh",60,20.33
+"Pittsburgh",63,20.34
+"Pittsburgh",66,19.5
+"Pittsburgh",69,18.75
+"Pittsburgh",72,42.94
+"Pittsburgh",75,53.83
+"Pittsburgh",78,53.65
+"Pittsburgh",81,45.23
+"Pittsburgh",84,41
+"Pittsburgh",87,40.74
+"Pittsburgh",90,40.92
+"Pittsburgh",93,41.51
+"Pittsburgh",96,54.27
+"Pittsburgh",99,63.08
+"Pittsburgh",102,65.07
+"Stockton",0,56.07
+"Stockton",3,64.94
+"Stockton",6,70.92
+"Stockton",9,59.04
+"Stockton",12,57.4
+"Stockton",15,56.64
+"Stockton",18,56.71
+"Stockton",21,57.06
+"Stockton",24,55.53
+"Stockton",27,62.33
+"Stockton",30,57.99
+"Stockton",33,57.76
+"Stockton",36,57.54
+"Stockton",39,55.42
+"Stockton",42,51.87
+"Stockton",45,49.42
+"Stockton",48,48.99
+"Stockton",51,53.38
+"Stockton",54,57.52
+"Stockton",57,57.66
+"Stockton",60,51.58
+"Stockton",63,48.77
+"Stockton",66,47.66
+"Stockton",69,45.88
+"Stockton",72,46.7
+"Stockton",75,47.2
+"Stockton",78,51.26
+"Stockton",81,55.6
+"Stockton",84,48.9
+"Stockton",87,43.81
+"Stockton",90,40.09
+"Stockton",93,36.36
+"Stockton",96,35.29
+"Stockton",99,50.82
+"Stockton",102,58.38
+"Stockton",105,59.2
+"Stockton",108,52.05
+"Stockton",111,47.82
+"Stockton",114,46.12
+"Stockton",117,46.38
+"Anchorage",0,11.75
+"Anchorage",3,11.93
+"Anchorage",6,18.41
+"Anchorage",9,22.15
+"Anchorage",12,21.31
+"Anchorage",15,19.94
+"Anchorage",18,19.26
+"Anchorage",21,16.93
+"Anchorage",24,17.98
+"Anchorage",27,21.79
+"Anchorage",30,29.48
+"Anchorage",33,33.13
+"Anchorage",36,30.56
+"Anchorage",39,24.93
+"Anchorage",42,22.08
+"Anchorage",45,18.88
+"Anchorage",48,16.5
+"Anchorage",51,19.24
+"Anchorage",54,29.03
+"Anchorage",57,32.01
+"Anchorage",60,29.8
+"Anchorage",63,24.25
+"Anchorage",66,23.67
+"Anchorage",69,24.96
+"Anchorage",72,24.96
+"Anchorage",75,26
+"Anchorage",78,32.09
+"Anchorage",81,35.35
+"Anchorage",84,31.62
+"Anchorage",87,26.26
+"Anchorage",90,26.54
+"Anchorage",93,26.82
+"Anchorage",96,26.83
+"Anchorage",99,28.36
+"Anchorage",102,30.89
+"Anchorage",105,33.64
+"Anchorage",108,29.59
+"Anchorage",111,22.94
+"Anchorage",114,20.24
+"Anchorage",117,18.75
+"Cincinnati",0,34.23
+"Cincinnati",3,41.16
+"Cincinnati",6,43.65
+"Cincinnati",9,34.32
+"Cincinnati",12,25.11
+"Cincinnati",15,21.67
+"Cincinnati",18,26.71
+"Cincinnati",21,32.9
+"Cincinnati",24,38.14
+"Cincinnati",27,45.1
+"Cincinnati",30,48.54
+"Cincinnati",33,41.13
+"Cincinnati",36,37.29
+"Cincinnati",39,33.93
+"Cincinnati",42,27.61
+"Cincinnati",45,22.8
+"Cincinnati",48,34.74
+"Cincinnati",51,45.32
+"Cincinnati",54,50.7
+"Cincinnati",57,43.89
+"Cincinnati",60,39.7
+"Cincinnati",63,40.18
+"Cincinnati",66,40.5
+"Cincinnati",69,41.11
+"Cincinnati",72,47.51
+"Cincinnati",75,61.1
+"Cincinnati",78,63.41
+"Cincinnati",81,57.98
+"Cincinnati",84,54.75
+"Cincinnati",87,52.77
+"Cincinnati",90,54.17
+"Cincinnati",93,55.22
+"Cincinnati",96,61.93
+"Cincinnati",99,68.28
+"Cincinnati",102,68.87
+"Cincinnati",105,66.67
+"Cincinnati",108,63.88
+"Cincinnati",111,63.84
+"Cincinnati",114,64.79
+"Cincinnati",117,60.33
+"Saint Paul",0,39.27
+"Saint Paul",3,42.98
+"Saint Paul",6,39.99
+"Saint Paul",9,37.17
+"Saint Paul",12,36.63
+"Saint Paul",15,36.73
+"Saint Paul",18,31.36
+"Saint Paul",21,28.1
+"Saint Paul",24,28.09
+"Saint Paul",27,33.75
+"Saint Paul",30,38.23
+"Saint Paul",33,32.32
+"Saint Paul",36,21.02
+"Saint Paul",39,22.11
+"Saint Paul",42,22.31
+"Saint Paul",45,24.52
+"Saint Paul",48,34.62
+"Saint Paul",51,47.15
+"Saint Paul",54,50.64
+"Saint Paul",57,44.76
+"Saint Paul",60,42.2
+"Saint Paul",63,43.78
+"Saint Paul",66,45.15
+"Saint Paul",69,46.47
+"Saint Paul",72,50.46
+"Saint Paul",75,56.39
+"Saint Paul",78,58.2
+"Saint Paul",81,55.76
+"Saint Paul",84,55
+"Saint Paul",87,58.92
+"Saint Paul",90,57.39
+"Saint Paul",93,54.83
+"Saint Paul",96,48.69
+"Saint Paul",99,43.37
+"Saint Paul",102,43.92
+"Greensboro",0,38.7
+"Greensboro",3,49.17
+"Greensboro",6,52.47
+"Greensboro",9,47.5
+"Greensboro",12,39.45
+"Greensboro",15,33.69
+"Greensboro",18,28.11
+"Greensboro",21,26.73
+"Greensboro",24,44.38
+"Greensboro",27,52.45
+"Greensboro",30,53.85
+"Greensboro",33,50.25
+"Greensboro",36,42.66
+"Greensboro",39,41.13
+"Greensboro",42,39.04
+"Greensboro",45,36.48
+"Greensboro",48,47.03
+"Greensboro",51,54.36
+"Greensboro",54,56.79
+"Greensboro",57,46.14
+"Greensboro",60,37.54
+"Greensboro",63,33.11
+"Greensboro",66,32.81
+"Greensboro",69,31.35
+"Greensboro",72,51.69
+"Greensboro",75,61.24
+"Greensboro",78,64.04
+"Greensboro",81,53.44
+"Greensboro",84,45.21
+"Greensboro",87,45.88
+"Greensboro",90,48.41
+"Greensboro",93,48.69
+"Greensboro",96,60.22
+"Greensboro",99,70.26
+"Greensboro",102,72.78
+"Greensboro",105,64.24
+"Greensboro",108,59.74
+"Greensboro",111,58.08
+"Greensboro",114,57.28
+"Greensboro",117,57.18
+"Toledo",0,28.33
+"Toledo",3,31.24
+"Toledo",6,32.18
+"Toledo",9,24.12
+"Toledo",12,16.7
+"Toledo",15,17.71
+"Toledo",18,21.99
+"Toledo",21,25.34
+"Toledo",24,31.21
+"Toledo",27,35.96
+"Toledo",30,37.06
+"Toledo",33,33.49
+"Toledo",36,31.48
+"Toledo",39,24.1
+"Toledo",42,17.64
+"Toledo",45,15.8
+"Toledo",48,28.31
+"Toledo",51,35.74
+"Toledo",54,38.97
+"Toledo",57,34.03
+"Toledo",60,34.12
+"Toledo",63,36.13
+"Toledo",66,36.9
+"Toledo",69,38.01
+"Toledo",72,42.69
+"Toledo",75,50.71
+"Toledo",78,53.96
+"Toledo",81,49.48
+"Toledo",84,46.07
+"Toledo",87,44.26
+"Toledo",90,41.89
+"Toledo",93,41.67
+"Toledo",96,50.86
+"Toledo",99,60.58
+"Toledo",102,63.06
+"Toledo",105,61.32
+"Toledo",108,59.25
+"Toledo",111,57.81
+"Toledo",114,55.52
+"Toledo",117,54.21
+"Newark",0,33.84
+"Newark",3,36.75
+"Newark",6,37.6
+"Newark",9,30.85
+"Newark",12,24.75
+"Newark",15,21.21
+"Newark",18,18.36
+"Newark",21,17.84
+"Newark",24,36.55
+"Newark",27,40.72
+"Newark",30,40.3
+"Newark",33,34.08
+"Newark",36,32.59
+"Newark",39,31.65
+"Newark",42,32.07
+"Newark",45,32.98
+"Newark",48,36.15
+"Newark",51,38.69
+"Newark",54,38.26
+"Newark",57,31.53
+"Newark",60,21.5
+"Newark",63,17.68
+"Newark",66,15
+"Newark",69,15.56
+"Newark",72,36.6
+"Newark",75,44.06
+"Newark",78,47.22
+"Newark",81,38.66
+"Newark",84,29.57
+"Newark",87,26.02
+"Newark",90,28.95
+"Newark",93,31.83
+"Newark",96,48.78
+"Newark",99,56.42
+"Newark",102,58.41
+"Plano",0,71.92
+"Plano",3,82.35
+"Plano",6,84.56
+"Plano",9,80.2
+"Plano",12,69.1
+"Plano",15,61.97
+"Plano",18,60.03
+"Plano",21,56.3
+"Plano",24,66.13
+"Plano",27,80.02
+"Plano",30,83.89
+"Plano",33,78.71
+"Plano",36,67.1
+"Plano",39,61.92
+"Plano",42,60.51
+"Plano",45,60.42
+"Plano",48,63.3
+"Plano",51,69.46
+"Plano",54,74.48
+"Plano",57,73.05
+"Plano",60,71.47
+"Plano",63,68.89
+"Plano",66,65.97
+"Plano",69,63.61
+"Plano",72,65.51
+"Plano",75,66.19
+"Plano",78,72.14
+"Plano",81,71.26
+"Plano",84,63.62
+"Plano",87,62.58
+"Plano",90,62.81
+"Plano",93,61.07
+"Plano",96,61.03
+"Plano",99,62.38
+"Plano",102,69.63
+"Plano",105,66.72
+"Plano",108,59.52
+"Plano",111,54.17
+"Plano",114,51.52
+"Plano",117,53.94
+"Henderson",0,44.76
+"Henderson",3,67.17
+"Henderson",6,76.1
+"Henderson",9,74.77
+"Henderson",12,63.54
+"Henderson",15,55.87
+"Henderson",18,52.32
+"Henderson",21,45.77
+"Henderson",24,49.12
+"Henderson",27,68.83
+"Henderson",30,74.86
+"Henderson",33,74.82
+"Henderson",36,70.23
+"Henderson",39,67.73
+"Henderson",42,64.24
+"Henderson",45,62.49
+"Henderson",48,60.35
+"Henderson",51,65.21
+"Henderson",54,67.32
+"Henderson",57,62.38
+"Henderson",60,58.33
+"Henderson",63,55.97
+"Henderson",66,50.94
+"Henderson",69,44.76
+"Henderson",72,44.76
+"Henderson",75,54.62
+"Henderson",78,53.42
+"Henderson",81,49.7
+"Henderson",84,46.07
+"Henderson",87,44.98
+"Henderson",90,44.9
+"Henderson",93,44.78
+"Henderson",96,46
+"Henderson",99,52.98
+"Henderson",102,57.48
+"Henderson",105,59.47
+"Henderson",108,50.74
+"Henderson",111,42.15
+"Henderson",114,39.28
+"Henderson",117,36.57
+"Lincoln",0,42.22
+"Lincoln",3,52.48
+"Lincoln",6,60.69
+"Lincoln",9,58.06
+"Lincoln",12,47.55
+"Lincoln",15,41.05
+"Lincoln",18,37.9
+"Lincoln",21,33.87
+"Lincoln",24,44.38
+"Lincoln",27,54.5
+"Lincoln",30,60.31
+"Lincoln",33,58.08
+"Lincoln",36,51.87
+"Lincoln",39,49.23
+"Lincoln",42,47.86
+"Lincoln",45,47.82
+"Lincoln",48,54.05
+"Lincoln",51,66.29
+"Lincoln",54,73.11
+"Lincoln",57,70.75
+"Lincoln",60,66.7
+"Lincoln",63,65.42
+"Lincoln",66,64.71
+"Lincoln",69,64.33
+"Lincoln",72,65.64
+"Lincoln",75,72.76
+"Lincoln",78,77.14
+"Lincoln",81,75.94
+"Lincoln",84,70.91
+"Lincoln",87,67.17
+"Lincoln",90,66.19
+"Lincoln",93,59.85
+"Lincoln",96,59.32
+"Lincoln",99,63.42
+"Lincoln",102,62.88
+"Lincoln",105,58.98
+"Lincoln",108,52.77
+"Lincoln",111,49.53
+"Lincoln",114,47.47
+"Lincoln",117,46.11
+"Orlando",0,75.29
+"Orlando",3,79.97
+"Orlando",6,80.69
+"Orlando",9,73.18
+"Orlando",12,64.6
+"Orlando",15,60.35
+"Orlando",18,58.5
+"Orlando",21,56.57
+"Orlando",24,72.34
+"Orlando",27,77.59
+"Orlando",30,78.71
+"Orlando",33,70.34
+"Orlando",36,61.56
+"Orlando",39,54.95
+"Orlando",42,52.54
+"Orlando",45,51.91
+"Orlando",48,66.67
+"Orlando",51,73.72
+"Orlando",54,74.07
+"Orlando",57,64.41
+"Orlando",60,55.99
+"Orlando",63,51.11
+"Orlando",66,48.29
+"Orlando",69,48.72
+"Orlando",72,71.58
+"Orlando",75,77.75
+"Orlando",78,77.95
+"Orlando",81,70.54
+"Orlando",84,64.34
+"Orlando",87,60.28
+"Orlando",90,57.28
+"Orlando",93,56.16
+"Orlando",96,75.52
+"Orlando",99,80.83
+"Orlando",102,80.79
+"Orlando",105,74.1
+"Orlando",108,68.92
+"Orlando",111,65.87
+"Orlando",114,64.07
+"Orlando",117,63.57
+"Jersey City",0,35.02
+"Jersey City",3,39.56
+"Jersey City",6,41.22
+"Jersey City",9,35.47
+"Jersey City",12,31.39
+"Jersey City",15,27.45
+"Jersey City",18,23.99
+"Jersey City",21,21.61
+"Jersey City",24,36.97
+"Jersey City",27,40.01
+"Jersey City",30,39.07
+"Jersey City",33,35.2
+"Jersey City",36,31.55
+"Jersey City",39,29.16
+"Jersey City",42,28.69
+"Jersey City",45,30.27
+"Jersey City",48,34.77
+"Jersey City",51,41.02
+"Jersey City",54,40.91
+"Jersey City",57,33
+"Jersey City",60,26.47
+"Jersey City",63,22.36
+"Jersey City",66,20.39
+"Jersey City",69,22.93
+"Jersey City",72,40.04
+"Jersey City",75,49.72
+"Jersey City",78,53.11
+"Jersey City",81,46.87
+"Jersey City",84,42.56
+"Jersey City",87,38.59
+"Jersey City",90,36.26
+"Jersey City",93,34.25
+"Jersey City",96,54.55
+"Jersey City",99,62.56
+"Jersey City",102,63.02
+"Jersey City",105,54.34
+"Jersey City",108,48.76
+"Jersey City",111,46.7
+"Jersey City",114,45.08
+"Jersey City",117,47.01
+"Chula Vista",0,53.26
+"Chula Vista",3,62.8
+"Chula Vista",6,65.46
+"Chula Vista",9,63.28
+"Chula Vista",12,55.71
+"Chula Vista",15,52.84
+"Chula Vista",18,50.94
+"Chula Vista",21,50.6
+"Chula Vista",24,51.9
+"Chula Vista",27,60.97
+"Chula Vista",30,65.77
+"Chula Vista",33,65.13
+"Chula Vista",36,59.31
+"Chula Vista",39,55.27
+"Chula Vista",42,54.71
+"Chula Vista",45,55.3
+"Chula Vista",48,56.08
+"Chula Vista",51,57.64
+"Chula Vista",54,60.13
+"Chula Vista",57,57.63
+"Chula Vista",60,56.64
+"Chula Vista",63,56.2
+"Chula Vista",66,56
+"Chula Vista",69,55.47
+"Chula Vista",72,53.38
+"Chula Vista",75,53.92
+"Chula Vista",78,52.48
+"Chula Vista",81,52.84
+"Chula Vista",84,53.15
+"Chula Vista",87,51.99
+"Chula Vista",90,52.26
+"Chula Vista",93,53.07
+"Chula Vista",96,53.28
+"Chula Vista",99,57.68
+"Chula Vista",102,59.67
+"Buffalo",0,29.16
+"Buffalo",3,34.23
+"Buffalo",6,33.48
+"Buffalo",9,27.91
+"Buffalo",12,21.15
+"Buffalo",15,17.34
+"Buffalo",18,15.79
+"Buffalo",21,17.84
+"Buffalo",24,29.67
+"Buffalo",27,34.29
+"Buffalo",30,35.67
+"Buffalo",33,33.31
+"Buffalo",36,32.32
+"Buffalo",39,29.62
+"Buffalo",42,28.34
+"Buffalo",45,26.01
+"Buffalo",48,32.64
+"Buffalo",51,35.54
+"Buffalo",54,36.46
+"Buffalo",57,30.45
+"Buffalo",60,26.81
+"Buffalo",63,26.28
+"Buffalo",66,29.67
+"Buffalo",69,30.5
+"Buffalo",72,39.48
+"Buffalo",75,45.86
+"Buffalo",78,46.9
+"Buffalo",81,41.18
+"Buffalo",84,39.02
+"Buffalo",87,42.09
+"Buffalo",90,43.89
+"Buffalo",93,45.38
+"Buffalo",96,52.2
+"Buffalo",99,57.95
+"Buffalo",102,55.89
+"Fort Wayne",0,25.57
+"Fort Wayne",3,30.92
+"Fort Wayne",6,31.95
+"Fort Wayne",9,18.37
+"Fort Wayne",12,13.91
+"Fort Wayne",15,19.62
+"Fort Wayne",18,24.87
+"Fort Wayne",21,28.02
+"Fort Wayne",24,34.16
+"Fort Wayne",27,38.73
+"Fort Wayne",30,38.97
+"Fort Wayne",33,35.62
+"Fort Wayne",36,30.34
+"Fort Wayne",39,15.53
+"Fort Wayne",42,9.81
+"Fort Wayne",45,7.38
+"Fort Wayne",48,28.51
+"Fort Wayne",51,34.66
+"Fort Wayne",54,37.13
+"Fort Wayne",57,35.88
+"Fort Wayne",60,37
+"Fort Wayne",63,37.3
+"Fort Wayne",66,37.76
+"Fort Wayne",69,38.23
+"Fort Wayne",72,41.3
+"Fort Wayne",75,48.73
+"Fort Wayne",78,55.18
+"Fort Wayne",81,49.57
+"Fort Wayne",84,46.11
+"Fort Wayne",87,43.09
+"Fort Wayne",90,42.47
+"Fort Wayne",93,45.5
+"Fort Wayne",96,52.12
+"Fort Wayne",99,59.41
+"Fort Wayne",102,58.7
+"Fort Wayne",105,57.85
+"Fort Wayne",108,57.58
+"Fort Wayne",111,54.62
+"Fort Wayne",114,51.83
+"Fort Wayne",117,54.75
+"Chandler",0,51.67
+"Chandler",3,76.87
+"Chandler",6,83.26
+"Chandler",9,81.27
+"Chandler",12,62.2
+"Chandler",15,55.85
+"Chandler",18,51.48
+"Chandler",21,49.87
+"Chandler",24,53.64
+"Chandler",27,73.29
+"Chandler",30,74.79
+"Chandler",33,73.67
+"Chandler",36,60.57
+"Chandler",39,53.06
+"Chandler",42,51.3
+"Chandler",45,51.98
+"Chandler",48,53.55
+"Chandler",51,70.52
+"Chandler",54,69.78
+"Chandler",57,66.25
+"Chandler",60,56.62
+"Chandler",63,50.66
+"Chandler",66,43.2
+"Chandler",69,43.14
+"Chandler",72,45.26
+"Chandler",75,53.68
+"Chandler",78,57.47
+"Chandler",81,47.23
+"Chandler",84,45.12
+"Chandler",87,43.18
+"Chandler",90,42.97
+"Chandler",93,41.76
+"Chandler",96,42.76
+"Chandler",99,49.06
+"Chandler",102,51.54
+"Chandler",105,51.55
+"Chandler",108,41.83
+"Chandler",111,36.17
+"Chandler",114,33.7
+"Chandler",117,32.52
+"St. Petersburg",0,33.26
+"St. Petersburg",3,30.04
+"St. Petersburg",6,26.67
+"St. Petersburg",9,27.14
+"St. Petersburg",12,30.28
+"St. Petersburg",15,33
+"St. Petersburg",18,35.46
+"St. Petersburg",21,36.52
+"St. Petersburg",24,34.53
+"St. Petersburg",27,32.89
+"St. Petersburg",30,31.89
+"St. Petersburg",33,31.38
+"St. Petersburg",36,30.96
+"St. Petersburg",39,31.65
+"St. Petersburg",42,34.05
+"St. Petersburg",45,34.65
+"St. Petersburg",48,33.45
+"St. Petersburg",51,28.16
+"St. Petersburg",54,26.02
+"St. Petersburg",57,31.21
+"St. Petersburg",60,30.59
+"St. Petersburg",63,32.22
+"St. Petersburg",66,36.65
+"St. Petersburg",69,39.27
+"St. Petersburg",72,38.17
+"St. Petersburg",75,37.45
+"St. Petersburg",78,37.81
+"St. Petersburg",81,38.44
+"St. Petersburg",84,38.21
+"St. Petersburg",87,37.9
+"St. Petersburg",90,39.25
+"St. Petersburg",93,39.8
+"St. Petersburg",96,38.97
+"St. Petersburg",99,38.24
+"St. Petersburg",102,38.88
+"Laredo",0,68.97
+"Laredo",3,80.98
+"Laredo",6,86.61
+"Laredo",9,85.39
+"Laredo",12,74.97
+"Laredo",15,70.36
+"Laredo",18,66.09
+"Laredo",21,62.78
+"Laredo",24,68.49
+"Laredo",27,79
+"Laredo",30,85.23
+"Laredo",33,84.11
+"Laredo",36,77.11
+"Laredo",39,69.64
+"Laredo",42,66.34
+"Laredo",45,67.03
+"Laredo",48,68.97
+"Laredo",51,77.49
+"Laredo",54,85.89
+"Laredo",57,84.3
+"Laredo",60,77.41
+"Laredo",63,71.77
+"Laredo",66,67.14
+"Laredo",69,65.64
+"Laredo",72,71
+"Laredo",75,83.2
+"Laredo",78,91.09
+"Laredo",81,89.17
+"Laredo",84,76.94
+"Laredo",87,74.55
+"Laredo",90,70.33
+"Laredo",93,71.42
+"Laredo",96,76.6
+"Laredo",99,86.86
+"Laredo",102,88.98
+"Laredo",105,87.42
+"Laredo",108,79
+"Laredo",111,65.82
+"Laredo",114,61.78
+"Laredo",117,60.78
+"Durham",0,40.17
+"Durham",3,47.64
+"Durham",6,50.45
+"Durham",9,41.88
+"Durham",12,33.66
+"Durham",15,32.97
+"Durham",18,28.42
+"Durham",21,25.97
+"Durham",24,46.24
+"Durham",27,51.82
+"Durham",30,54.61
+"Durham",33,49.44
+"Durham",36,43.59
+"Durham",39,38.61
+"Durham",42,40.93
+"Durham",45,38.82
+"Durham",48,48.6
+"Durham",51,54.86
+"Durham",54,56.61
+"Durham",57,45.06
+"Durham",60,37.18
+"Durham",63,32.53
+"Durham",66,31.32
+"Durham",69,31.03
+"Durham",72,51.83
+"Durham",75,60.88
+"Durham",78,63.1
+"Durham",81,53.75
+"Durham",84,49.49
+"Durham",87,48.27
+"Durham",90,48.77
+"Durham",93,47.07
+"Durham",96,62.56
+"Durham",99,71.61
+"Durham",102,73.86
+"Durham",105,66.76
+"Durham",108,62.53
+"Durham",111,59.75
+"Durham",114,58
+"Durham",117,57.63
+"Irvine",0,43.23
+"Irvine",3,62.01
+"Irvine",6,66.78
+"Irvine",9,64.47
+"Irvine",12,56.34
+"Irvine",15,49.89
+"Irvine",18,47.73
+"Irvine",21,48.96
+"Irvine",24,49.87
+"Irvine",27,57.52
+"Irvine",30,63.7
+"Irvine",33,63.48
+"Irvine",36,59.16
+"Irvine",39,57.42
+"Irvine",42,57.04
+"Irvine",45,55.47
+"Irvine",48,55.22
+"Irvine",51,56.43
+"Irvine",54,57.51
+"Irvine",57,54.24
+"Irvine",60,53.11
+"Irvine",63,52.33
+"Irvine",66,51.12
+"Irvine",69,50.56
+"Irvine",72,49.31
+"Irvine",75,54.85
+"Irvine",78,55.94
+"Irvine",81,51.5
+"Irvine",84,48.14
+"Irvine",87,46.38
+"Irvine",90,44.23
+"Irvine",93,41.49
+"Irvine",96,41.59
+"Irvine",99,55.14
+"Irvine",102,61.08
+"Irvine",105,61
+"Irvine",108,51.46
+"Irvine",111,45.89
+"Irvine",114,43.42
+"Irvine",117,41.16
+"Madison",0,20.91
+"Madison",3,33.39
+"Madison",6,35.6
+"Madison",9,31.8
+"Madison",12,31.89
+"Madison",15,34.27
+"Madison",18,35.85
+"Madison",21,33.93
+"Madison",24,32.68
+"Madison",27,36.55
+"Madison",30,36.97
+"Madison",33,28.02
+"Madison",36,14.34
+"Madison",39,10.4
+"Madison",42,12.49
+"Madison",45,19.71
+"Madison",48,31.23
+"Madison",51,38.66
+"Madison",54,41.25
+"Madison",57,41.46
+"Madison",60,42.85
+"Madison",63,44.5
+"Madison",66,43.57
+"Madison",69,43.68
+"Madison",72,48.95
+"Madison",75,56.92
+"Madison",78,55.31
+"Madison",81,50.65
+"Madison",84,49.53
+"Madison",87,50.07
+"Madison",90,51.47
+"Madison",93,52.97
+"Madison",96,56.35
+"Madison",99,60.36
+"Madison",102,62.61
+"Madison",105,60.42
+"Madison",108,57.49
+"Madison",111,51.15
+"Madison",114,43.78
+"Madison",117,37.83
+"Norfolk",0,39.87
+"Norfolk",3,44.33
+"Norfolk",6,43.09
+"Norfolk",9,39.11
+"Norfolk",12,37.3
+"Norfolk",15,33.94
+"Norfolk",18,29.65
+"Norfolk",21,28.64
+"Norfolk",24,44.92
+"Norfolk",27,49
+"Norfolk",30,50.2
+"Norfolk",33,45.01
+"Norfolk",36,41.94
+"Norfolk",39,43.12
+"Norfolk",42,44.45
+"Norfolk",45,43.24
+"Norfolk",48,50.41
+"Norfolk",51,52.33
+"Norfolk",54,52.12
+"Norfolk",57,45.7
+"Norfolk",60,41.12
+"Norfolk",63,37.39
+"Norfolk",66,32.6
+"Norfolk",69,29.37
+"Norfolk",72,47.35
+"Norfolk",75,55.36
+"Norfolk",78,58.65
+"Norfolk",81,49.82
+"Norfolk",84,43.12
+"Norfolk",87,44.97
+"Norfolk",90,45.6
+"Norfolk",93,43.76
+"Norfolk",96,58.32
+"Norfolk",99,67.76
+"Norfolk",102,69.75
+"Lubbock",0,57.97
+"Lubbock",3,74.44
+"Lubbock",6,84.83
+"Lubbock",9,83.41
+"Lubbock",12,64.8
+"Lubbock",15,55.87
+"Lubbock",18,52.93
+"Lubbock",21,50.2
+"Lubbock",24,53.96
+"Lubbock",27,67.35
+"Lubbock",30,74.01
+"Lubbock",33,73.71
+"Lubbock",36,65.37
+"Lubbock",39,64.33
+"Lubbock",42,60.62
+"Lubbock",45,57.22
+"Lubbock",48,61.18
+"Lubbock",51,76.24
+"Lubbock",54,77.4
+"Lubbock",57,74.49
+"Lubbock",60,65.89
+"Lubbock",63,63.44
+"Lubbock",66,58.05
+"Lubbock",69,55.29
+"Lubbock",72,58.22
+"Lubbock",75,70.6
+"Lubbock",78,71.56
+"Lubbock",81,67.57
+"Lubbock",84,60.06
+"Lubbock",87,50.7
+"Lubbock",90,47.74
+"Lubbock",93,47.34
+"Lubbock",96,51.04
+"Lubbock",99,61.03
+"Lubbock",102,64.82
+"Lubbock",105,62.44
+"Lubbock",108,50.7
+"Lubbock",111,42.65
+"Lubbock",114,38.78
+"Lubbock",117,37.65
+"Gilbert",0,49.08
+"Gilbert",3,74.43
+"Gilbert",6,80.96
+"Gilbert",9,79.09
+"Gilbert",12,60.15
+"Gilbert",15,53.94
+"Gilbert",18,49.71
+"Gilbert",21,48.24
+"Gilbert",24,52.12
+"Gilbert",27,71.92
+"Gilbert",30,73.56
+"Gilbert",33,72.57
+"Gilbert",36,59.61
+"Gilbert",39,52.25
+"Gilbert",42,50.61
+"Gilbert",45,51.42
+"Gilbert",48,53.15
+"Gilbert",51,70.25
+"Gilbert",54,69.66
+"Gilbert",57,66.25
+"Gilbert",60,56.62
+"Gilbert",63,50.66
+"Gilbert",66,43.2
+"Gilbert",69,43.14
+"Gilbert",72,45.26
+"Gilbert",75,53.68
+"Gilbert",78,57.47
+"Gilbert",81,47.23
+"Gilbert",84,45.12
+"Gilbert",87,43.18
+"Gilbert",90,42.97
+"Gilbert",93,41.76
+"Gilbert",96,42.76
+"Gilbert",99,49.06
+"Gilbert",102,51.54
+"Gilbert",105,51.55
+"Gilbert",108,41.83
+"Gilbert",111,36.17
+"Gilbert",114,33.7
+"Gilbert",117,32.52
+"Winston–Salem",0,46.35
+"Winston–Salem",3,55.78
+"Winston–Salem",6,57.43
+"Winston–Salem",9,47.37
+"Winston–Salem",12,38.11
+"Winston–Salem",15,31.24
+"Winston–Salem",18,26.28
+"Winston–Salem",21,24.82
+"Winston–Salem",24,43.75
+"Winston–Salem",27,52.78
+"Winston–Salem",30,57.04
+"Winston–Salem",33,52.44
+"Winston–Salem",36,47.79
+"Winston–Salem",39,41.91
+"Winston–Salem",42,38.37
+"Winston–Salem",45,34.42
+"Winston–Salem",48,51.31
+"Winston–Salem",51,58.67
+"Winston–Salem",54,60.22
+"Winston–Salem",57,47.95
+"Winston–Salem",60,38.24
+"Winston–Salem",63,32.08
+"Winston–Salem",66,27.92
+"Winston–Salem",69,25.55
+"Winston–Salem",72,46.63
+"Winston–Salem",75,57.83
+"Winston–Salem",78,61.48
+"Winston–Salem",81,52.61
+"Winston–Salem",84,44.6
+"Winston–Salem",87,42.36
+"Winston–Salem",90,43.53
+"Winston–Salem",93,42.68
+"Winston–Salem",96,56.79
+"Winston–Salem",99,66.41
+"Winston–Salem",102,70.74
+"Glendale",0,55.02
+"Glendale",3,74.46
+"Glendale",6,81.32
+"Glendale",9,81.48
+"Glendale",12,66.45
+"Glendale",15,60.6
+"Glendale",18,55.42
+"Glendale",21,54.99
+"Glendale",24,56.62
+"Glendale",27,70.93
+"Glendale",30,75.31
+"Glendale",33,74.19
+"Glendale",36,64.47
+"Glendale",39,56.93
+"Glendale",42,56.41
+"Glendale",45,57.06
+"Glendale",48,57.56
+"Glendale",51,69.26
+"Glendale",54,69.87
+"Glendale",57,67.15
+"Glendale",60,57.52
+"Glendale",63,54.26
+"Glendale",66,49.14
+"Glendale",69,46.02
+"Glendale",72,47.73
+"Glendale",75,56.42
+"Glendale",78,54.77
+"Glendale",81,51.1
+"Glendale",84,47.82
+"Glendale",87,46.47
+"Glendale",90,45.35
+"Glendale",93,43.25
+"Glendale",96,45.19
+"Glendale",99,51.18
+"Glendale",102,54.02
+"Glendale",105,55.06
+"Glendale",108,47.5
+"Glendale",111,41.97
+"Glendale",114,39.23
+"Glendale",117,37.74
+"Reno",0,29.66
+"Reno",3,44.91
+"Reno",6,45.68
+"Reno",9,42.73
+"Reno",12,39.01
+"Reno",15,38.62
+"Reno",18,38.07
+"Reno",21,36.92
+"Reno",24,36.15
+"Reno",27,39.15
+"Reno",30,41.2
+"Reno",33,40.47
+"Reno",36,39.2
+"Reno",39,37
+"Reno",42,35.09
+"Reno",45,33.03
+"Reno",48,29.98
+"Reno",51,35.81
+"Reno",54,36.55
+"Reno",57,36.34
+"Reno",60,32.75
+"Reno",63,32.08
+"Reno",66,29.94
+"Reno",69,29.82
+"Reno",72,29.67
+"Reno",75,31.46
+"Reno",78,31.33
+"Reno",81,30.92
+"Reno",84,28.04
+"Reno",87,24.13
+"Reno",90,25.8
+"Reno",93,21.08
+"Reno",96,13.5
+"Reno",99,31.58
+"Reno",102,37.35
+"Hialeah",0,80.04
+"Hialeah",3,82.11
+"Hialeah",6,81.9
+"Hialeah",9,78.24
+"Hialeah",12,71.67
+"Hialeah",15,66.67
+"Hialeah",18,63.57
+"Hialeah",21,64.4
+"Hialeah",24,80.02
+"Hialeah",27,79.93
+"Hialeah",30,78.6
+"Hialeah",33,74.88
+"Hialeah",36,72.84
+"Hialeah",39,70.88
+"Hialeah",42,67.44
+"Hialeah",45,67.26
+"Hialeah",48,77.67
+"Hialeah",51,80.69
+"Hialeah",54,79.32
+"Hialeah",57,72.78
+"Hialeah",60,67.6
+"Hialeah",63,64.84
+"Hialeah",66,63.64
+"Hialeah",69,63.43
+"Hialeah",72,76.13
+"Hialeah",75,78.2
+"Hialeah",78,77.05
+"Hialeah",81,71.71
+"Hialeah",84,69.74
+"Hialeah",87,68.43
+"Hialeah",90,67.27
+"Hialeah",93,67.59
+"Hialeah",96,78.94
+"Hialeah",99,80.43
+"Hialeah",102,79.53
+"Hialeah",105,74.1
+"Hialeah",108,72.43
+"Hialeah",111,71.76
+"Hialeah",114,71.45
+"Hialeah",117,72.3
+"Garland",0,72.84
+"Garland",3,82.35
+"Garland",6,84.76
+"Garland",9,80.83
+"Garland",12,68.97
+"Garland",15,61.32
+"Garland",18,60.67
+"Garland",21,57.45
+"Garland",24,66.72
+"Garland",27,80.49
+"Garland",30,84.29
+"Garland",33,78.46
+"Garland",36,66.87
+"Garland",39,62.92
+"Garland",42,61.75
+"Garland",45,59.22
+"Garland",48,62.33
+"Garland",51,70.27
+"Garland",54,75.58
+"Garland",57,73.95
+"Garland",60,70.75
+"Garland",63,68.12
+"Garland",66,64.94
+"Garland",69,63.03
+"Garland",72,64.7
+"Garland",75,71.23
+"Garland",78,72.19
+"Garland",81,72.56
+"Garland",84,67.53
+"Garland",87,62.94
+"Garland",90,64.34
+"Garland",93,61.74
+"Garland",96,62.11
+"Garland",99,63.69
+"Garland",102,68.19
+"Garland",105,65.82
+"Garland",108,58.53
+"Garland",111,53.49
+"Garland",114,53.99
+"Garland",117,55.47
+"Chesapeake",0,39.87
+"Chesapeake",3,44.33
+"Chesapeake",6,43.09
+"Chesapeake",9,39.11
+"Chesapeake",12,37.3
+"Chesapeake",15,33.94
+"Chesapeake",18,29.65
+"Chesapeake",21,28.64
+"Chesapeake",24,44.92
+"Chesapeake",27,49
+"Chesapeake",30,50.2
+"Chesapeake",33,45.01
+"Chesapeake",36,41.94
+"Chesapeake",39,43.12
+"Chesapeake",42,44.45
+"Chesapeake",45,43.24
+"Chesapeake",48,50.41
+"Chesapeake",51,52.33
+"Chesapeake",54,52.12
+"Chesapeake",57,45.7
+"Chesapeake",60,41.12
+"Chesapeake",63,37.39
+"Chesapeake",66,32.6
+"Chesapeake",69,29.37
+"Chesapeake",72,47.35
+"Chesapeake",75,55.36
+"Chesapeake",78,58.65
+"Chesapeake",81,49.82
+"Chesapeake",84,43.12
+"Chesapeake",87,44.97
+"Chesapeake",90,45.6
+"Chesapeake",93,43.76
+"Chesapeake",96,58.32
+"Chesapeake",99,67.76
+"Chesapeake",102,69.75
+"Irving",0,72.84
+"Irving",3,82.35
+"Irving",6,84.76
+"Irving",9,80.83
+"Irving",12,68.97
+"Irving",15,61.32
+"Irving",18,60.67
+"Irving",21,57.45
+"Irving",24,66.72
+"Irving",27,80.49
+"Irving",30,84.29
+"Irving",33,78.46
+"Irving",36,66.87
+"Irving",39,62.92
+"Irving",42,61.75
+"Irving",45,59.22
+"Irving",48,62.33
+"Irving",51,70.27
+"Irving",54,75.58
+"Irving",57,73.95
+"Irving",60,70.75
+"Irving",63,68.12
+"Irving",66,64.94
+"Irving",69,63.03
+"Irving",72,64.7
+"Irving",75,71.23
+"Irving",78,72.19
+"Irving",81,72.56
+"Irving",84,67.53
+"Irving",87,62.94
+"Irving",90,64.34
+"Irving",93,61.74
+"Irving",96,62.11
+"Irving",99,63.69
+"Irving",102,68.19
+"Irving",105,65.82
+"Irving",108,58.53
+"Irving",111,53.49
+"Irving",114,53.99
+"Irving",117,55.47
+"North Las Vegas",0,40.84
+"North Las Vegas",3,63.91
+"North Las Vegas",6,71.35
+"North Las Vegas",9,70.66
+"North Las Vegas",12,55.78
+"North Las Vegas",15,48.88
+"North Las Vegas",18,47.41
+"North Las Vegas",21,44.13
+"North Las Vegas",24,45.19
+"North Las Vegas",27,62.2
+"North Las Vegas",30,69.19
+"North Las Vegas",33,69.24
+"North Las Vegas",36,64.51
+"North Las Vegas",39,61.74
+"North Las Vegas",42,59.16
+"North Las Vegas",45,57.06
+"North Las Vegas",48,53.73
+"North Las Vegas",51,59.63
+"North Las Vegas",54,60.75
+"North Las Vegas",57,58.15
+"North Las Vegas",60,53.65
+"North Las Vegas",63,50.17
+"North Las Vegas",66,44.01
+"North Las Vegas",69,38.14
+"North Las Vegas",72,39.23
+"North Las Vegas",75,50.44
+"North Las Vegas",78,50.72
+"North Las Vegas",81,46.96
+"North Las Vegas",84,43.14
+"North Las Vegas",87,40.98
+"North Las Vegas",90,40.49
+"North Las Vegas",93,39.2
+"North Las Vegas",96,39.7
+"North Las Vegas",99,49.33
+"North Las Vegas",102,53.84
+"North Las Vegas",105,54.3
+"North Las Vegas",108,42.82
+"North Las Vegas",111,35
+"North Las Vegas",114,32.39
+"North Las Vegas",117,30.45
+"Scottsdale",0,51.67
+"Scottsdale",3,76.87
+"Scottsdale",6,83.26
+"Scottsdale",9,81.27
+"Scottsdale",12,62.2
+"Scottsdale",15,55.85
+"Scottsdale",18,51.48
+"Scottsdale",21,49.87
+"Scottsdale",24,53.64
+"Scottsdale",27,73.29
+"Scottsdale",30,74.79
+"Scottsdale",33,73.67
+"Scottsdale",36,60.57
+"Scottsdale",39,53.06
+"Scottsdale",42,51.3
+"Scottsdale",45,51.98
+"Scottsdale",48,53.55
+"Scottsdale",51,70.52
+"Scottsdale",54,69.78
+"Scottsdale",57,66.25
+"Scottsdale",60,56.62
+"Scottsdale",63,50.66
+"Scottsdale",66,43.2
+"Scottsdale",69,43.14
+"Scottsdale",72,45.26
+"Scottsdale",75,53.68
+"Scottsdale",78,57.47
+"Scottsdale",81,47.23
+"Scottsdale",84,45.12
+"Scottsdale",87,43.18
+"Scottsdale",90,42.97
+"Scottsdale",93,41.76
+"Scottsdale",96,42.76
+"Scottsdale",99,49.06
+"Scottsdale",102,51.54
+"Scottsdale",105,51.55
+"Scottsdale",108,41.83
+"Scottsdale",111,36.17
+"Scottsdale",114,33.7
+"Scottsdale",117,32.52
+"Baton Rouge",0,68.79
+"Baton Rouge",3,76.28
+"Baton Rouge",6,79.45
+"Baton Rouge",9,74.14
+"Baton Rouge",12,63.01
+"Baton Rouge",15,56.86
+"Baton Rouge",18,52.5
+"Baton Rouge",21,49.89
+"Baton Rouge",24,66.85
+"Baton Rouge",27,77.61
+"Baton Rouge",30,80.44
+"Baton Rouge",33,73.89
+"Baton Rouge",36,62.51
+"Baton Rouge",39,56.64
+"Baton Rouge",42,50.88
+"Baton Rouge",45,46.63
+"Baton Rouge",48,63.9
+"Baton Rouge",51,74.39
+"Baton Rouge",54,75.22
+"Baton Rouge",57,69.18
+"Baton Rouge",60,62.74
+"Baton Rouge",63,57.41
+"Baton Rouge",66,55.44
+"Baton Rouge",69,58.84
+"Baton Rouge",72,64.74
+"Baton Rouge",75,72.85
+"Baton Rouge",78,73.54
+"Baton Rouge",81,70.63
+"Baton Rouge",84,66.86
+"Baton Rouge",87,66.13
+"Baton Rouge",90,66.28
+"Baton Rouge",93,67.5
+"Baton Rouge",96,70.03
+"Baton Rouge",99,69.18
+"Baton Rouge",102,66.8
+"Baton Rouge",105,65.41
+"Baton Rouge",108,66.63
+"Baton Rouge",111,66.27
+"Baton Rouge",114,66.01
+"Baton Rouge",117,64.74
+"Fremont",0,54.5
+"Fremont",3,59.97
+"Fremont",6,66.4
+"Fremont",9,60.66
+"Fremont",12,56.84
+"Fremont",15,56.32
+"Fremont",18,56.77
+"Fremont",21,54.79
+"Fremont",24,54.21
+"Fremont",27,58.42
+"Fremont",30,59.09
+"Fremont",33,58.5
+"Fremont",36,56.28
+"Fremont",39,53.76
+"Fremont",42,50.76
+"Fremont",45,48.06
+"Fremont",48,47.46
+"Fremont",51,53.8
+"Fremont",54,56.12
+"Fremont",57,55.32
+"Fremont",60,50.86
+"Fremont",63,49.49
+"Fremont",66,46.71
+"Fremont",69,42.64
+"Fremont",72,43.86
+"Fremont",75,46.03
+"Fremont",78,50.95
+"Fremont",81,54.43
+"Fremont",84,47.19
+"Fremont",87,42.91
+"Fremont",90,39.19
+"Fremont",93,36.59
+"Fremont",96,34.75
+"Fremont",99,51.94
+"Fremont",102,56.31
+"Fremont",105,54.84
+"Fremont",108,48.58
+"Fremont",111,47.1
+"Fremont",114,45.62
+"Fremont",117,45.12
+"Richmond",0,40.32
+"Richmond",3,47.28
+"Richmond",6,47.86
+"Richmond",9,39.76
+"Richmond",12,30.1
+"Richmond",15,23.59
+"Richmond",18,20.74
+"Richmond",21,19.69
+"Richmond",24,44.92
+"Richmond",27,49.72
+"Richmond",30,51.01
+"Richmond",33,46.14
+"Richmond",36,42.89
+"Richmond",39,41.01
+"Richmond",42,41.21
+"Richmond",45,38.02
+"Richmond",48,46.5
+"Richmond",51,51.43
+"Richmond",54,51.63
+"Richmond",57,43.54
+"Richmond",60,35.85
+"Richmond",63,26.59
+"Richmond",66,22.34
+"Richmond",69,21.95
+"Richmond",72,46.45
+"Richmond",75,55.54
+"Richmond",78,59.23
+"Richmond",81,49.28
+"Richmond",84,45.14
+"Richmond",87,44.16
+"Richmond",90,43.8
+"Richmond",93,43.62
+"Richmond",96,56.7
+"Richmond",99,69.2
+"Richmond",102,71.1
+"Boise",0,30.27
+"Boise",3,49.44
+"Boise",6,59.09
+"Boise",9,57.94
+"Boise",12,47.61
+"Boise",15,44.17
+"Boise",18,43.41
+"Boise",21,42.75
+"Boise",24,44.71
+"Boise",27,52.03
+"Boise",30,57.81
+"Boise",33,57.09
+"Boise",36,55.17
+"Boise",39,54.27
+"Boise",42,52.77
+"Boise",45,50.16
+"Boise",48,45.5
+"Boise",51,45.86
+"Boise",54,47.79
+"Boise",57,48.88
+"Boise",60,39.79
+"Boise",63,35.09
+"Boise",66,35.1
+"Boise",69,33.19
+"Boise",72,35.31
+"Boise",75,42.47
+"Boise",78,48.52
+"Boise",81,45.34
+"Boise",84,37.92
+"Boise",87,32.74
+"Boise",90,31.45
+"Boise",93,32.85
+"Boise",96,34.84
+"Boise",99,38.44
+"Boise",102,44.21
+"Boise",105,45.79
+"Boise",108,38.05
+"Boise",111,37.65
+"Boise",114,37.34
+"Boise",117,37.2
+"San Bernardino",0,37.2
+"San Bernardino",3,61.74
+"San Bernardino",6,67.05
+"San Bernardino",9,65.32
+"San Bernardino",12,55.98
+"San Bernardino",15,46.74
+"San Bernardino",18,42.19
+"San Bernardino",21,40.86
+"San Bernardino",24,42.58
+"San Bernardino",27,58.12
+"San Bernardino",30,61.68
+"San Bernardino",33,62.37
+"San Bernardino",36,55.26
+"San Bernardino",39,52.61
+"San Bernardino",42,50.61
+"San Bernardino",45,48.06
+"San Bernardino",48,48.02
+"San Bernardino",51,52.16
+"San Bernardino",54,52.23
+"San Bernardino",57,48.12
+"San Bernardino",60,45.46
+"San Bernardino",63,43.6
+"San Bernardino",66,43.39
+"San Bernardino",69,42.91
+"San Bernardino",72,42.02
+"San Bernardino",75,47.42
+"San Bernardino",78,51.67
+"San Bernardino",81,44.03
+"San Bernardino",84,40.49
+"San Bernardino",87,38.46
+"San Bernardino",90,35.95
+"San Bernardino",93,35.82
+"San Bernardino",96,36.46
+"San Bernardino",99,50.73
+"San Bernardino",102,56.54
+"San Bernardino",105,57.45
+"San Bernardino",108,44.98
+"San Bernardino",111,37.92
+"San Bernardino",114,34.73
+"San Bernardino",117,33.15

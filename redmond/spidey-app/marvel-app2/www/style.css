@@ -1,0 +1,16 @@
+.ui-datepicker-calendar tbody td a{
+	
+}
+
+.match a{
+	background-color: red !important;
+	color: white !important;
+}
+
+.form-control{
+	width: 400px;
+}
+
+#cover {
+	margin-top: 30px;
+}
